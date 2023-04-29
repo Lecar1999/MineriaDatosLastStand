@@ -1,0 +1,962 @@
+﻿Condiciones_20_del_20_hogar_Sexo,Condiciones_20_del_20_hogar_Zona,Condiciones_20_del_20_hogar_Departamento,Condiciones_20_del_20_hogar_Etario,Condiciones_20_del_20_hogar_No_carente,Condiciones_20_del_20_hogar_Valor,Condiciones_20_del_20_hogar_Total,Condiciones_20_del_20_hogar_Proporción,Condiciones_20_del_20_hogar_Variable,Condiciones_20_del_20_hogar_ID,Condiciones_20_del_20_hogar_Nombre_dpto
+Hombre,Rural,5,Mayor,49274.77,319043.7,368318.5,0.86621687479722,Sin internet,3852,Antioquia
+Hombre,Rural,5,Mayor,270490.4,97828.09,368318.5,0.265607320837807,Hacinamiento,680,Antioquia
+Hombre,Rural,5,Mayor,324841,43477.47,368318.5,0.118043133863762,Sin pisos duraderos,5988,Antioquia
+Hombre,Rural,5,Mayor,347633.3,20685.26,368318.5,0.0561613386240441,Sin paredes duraderas,6522,Antioquia
+Hombre,Rural,5,Mayor,365081.8,3236.694,368318.5,0.00878775842104049,Sin electricidad,5454,Antioquia
+Hombre,Rural,5,Menor,20274.84,188067.9,208342.79,0.902684945324962,Sin internet,3850,Antioquia
+Hombre,Rural,5,Menor,108449.5,99893.3,208342.79,0.479466076075875,Hacinamiento,678,Antioquia
+Hombre,Rural,5,Menor,176145.2,32197.62,208342.79,0.154541561049461,Sin pisos duraderos,5986,Antioquia
+Hombre,Rural,5,Menor,200272.3,8070.455,208342.79,0.0387364256761657,Sin paredes duraderas,6520,Antioquia
+Hombre,Rural,5,Menor,206381.6,1961.227,208342.79,0.00941346230411909,Sin electricidad,5452,Antioquia
+Hombre,Rural,8,Mayor,5317.7513,81082.97,86400.72,0.938452480488589,Sin internet,3858,Atlántico
+Hombre,Rural,8,Mayor,53489.54,32911.18,86400.72,0.380913260908011,Hacinamiento,686,Atlántico
+Hombre,Rural,8,Mayor,84334.382,2066.343,86400.72,0.0239158076460474,Sin electricidad,5460,Atlántico
+Hombre,Rural,8,Mayor,84871.77,1528.954,86400.72,0.0176960793845236,Sin pisos duraderos,5994,Atlántico
+Hombre,Rural,8,Mayor,85951.6,449.1273,86400.72,0.00519818932064455,Sin paredes duraderas,6528,Atlántico
+Hombre,Rural,8,Menor,1570.807,44591.688,46162.49,0.965972329482227,Sin internet,3855,Atlántico
+Hombre,Rural,8,Menor,20095.16,26067.34,46162.49,0.564686610276006,Hacinamiento,683,Atlántico
+Hombre,Rural,8,Menor,44517.15,1645.342,46162.49,0.0356424014389172,Sin electricidad,5457,Atlántico
+Hombre,Rural,8,Menor,45929.46,233.034668,46162.49,0.0050481390410266,Sin paredes duraderas,6525,Atlántico
+Hombre,Rural,8,Menor,45973.099,189.395752,46162.49,0.00410280623943812,Sin pisos duraderos,5991,Atlántico
+Hombre,Rural,11,Mayor,513.50148,69.976486,583.47797,0.119929953824992,Sin internet,3862,"Bogotá, D.C."
+Hombre,Rural,11,Mayor,583.47797,0,583.47797,0,Hacinamiento,690,"Bogotá, D.C."
+Hombre,Rural,11,Mayor,583.47797,0,583.47797,0,Sin electricidad,5464,"Bogotá, D.C."
+Hombre,Rural,11,Mayor,583.47797,0,583.47797,0,Sin paredes duraderas,6532,"Bogotá, D.C."
+Hombre,Rural,11,Mayor,583.47797,0,583.47797,0,Sin pisos duraderos,5998,"Bogotá, D.C."
+Hombre,Rural,11,Menor,0,139.95297,139.95297,1,Sin internet,3861,"Bogotá, D.C."
+Hombre,Rural,11,Menor,139.95297,0,139.95297,0,Hacinamiento,689,"Bogotá, D.C."
+Hombre,Rural,11,Menor,139.95297,0,139.95297,0,Sin electricidad,5463,"Bogotá, D.C."
+Hombre,Rural,11,Menor,139.95297,0,139.95297,0,Sin paredes duraderas,6531,"Bogotá, D.C."
+Hombre,Rural,11,Menor,139.95297,0,139.95297,0,Sin pisos duraderos,5997,"Bogotá, D.C."
+Hombre,Rural,13,Mayor,4829.291,169098,173927.3,0.972233801134152,Sin internet,3866,Bolívar
+Hombre,Rural,13,Mayor,104157.3,69770.03,173927.3,0.40114478865595,Sin pisos duraderos,6002,Bolívar
+Hombre,Rural,13,Mayor,104291.81,69635.52,173927.3,0.400371419552882,Hacinamiento,694,Bolívar
+Hombre,Rural,13,Mayor,137796.3,36130.99,173927.3,0.207736163328011,Sin electricidad,5468,Bolívar
+Hombre,Rural,13,Mayor,145145.4,28781.89,173927.3,0.165482302088286,Sin paredes duraderas,6536,Bolívar
+Hombre,Rural,13,Menor,3731.168,91861.92,95593.08,0.960968304400277,Sin internet,3863,Bolívar
+Hombre,Rural,13,Menor,36383.66,59209.42,95593.08,0.61939023201261,Hacinamiento,691,Bolívar
+Hombre,Rural,13,Menor,56075.74,39517.35,95593.08,0.413391324978754,Sin pisos duraderos,5999,Bolívar
+Hombre,Rural,13,Menor,77011.96,18581.13,95593.08,0.194377354511435,Sin electricidad,5465,Bolívar
+Hombre,Rural,13,Menor,80247.06,15346.02,95593.08,0.160534842061789,Sin paredes duraderas,6533,Bolívar
+Hombre,Rural,15,Mayor,12770.63,158603.3,171373.9,0.925481068003938,Sin internet,3871,Boyacá
+Hombre,Rural,15,Mayor,141821.2,29552.73,171373.9,0.172445920878267,Hacinamiento,699,Boyacá
+Hombre,Rural,15,Mayor,152233.8,19140.13,171373.9,0.111686376980392,Sin paredes duraderas,6541,Boyacá
+Hombre,Rural,15,Mayor,163744,7629.921,171373.9,0.0445220713305819,Sin pisos duraderos,6007,Boyacá
+Hombre,Rural,15,Mayor,168492.3,2881.591,171373.9,0.0168146433033268,Sin electricidad,5473,Boyacá
+Hombre,Rural,15,Menor,8966.998,89641.69,98608.69,0.90906480960248,Sin internet,3869,Boyacá
+Hombre,Rural,15,Menor,63311.64,35297.05,98608.69,0.357950703938973,Hacinamiento,697,Boyacá
+Hombre,Rural,15,Menor,88293.06,10315.63,98608.69,0.104611774073867,Sin paredes duraderas,6539,Boyacá
+Hombre,Rural,15,Menor,95520.44,3088.246,98608.69,0.0313181931531592,Sin pisos duraderos,6005,Boyacá
+Hombre,Rural,15,Menor,97385.735,1222.954,98608.69,0.0124020915398024,Sin electricidad,5471,Boyacá
+Hombre,Rural,17,Mayor,6079.544,103495.3,109574.8,0.944517352529961,Sin internet,3876,Caldas
+Hombre,Rural,17,Mayor,82440.13,27134.69,109574.8,0.247636226577644,Sin paredes duraderas,6546,Caldas
+Hombre,Rural,17,Mayor,92058.17,17516.65,109574.8,0.159860205083651,Hacinamiento,704,Caldas
+Hombre,Rural,17,Mayor,108129.1,1445.715,109574.8,0.0131938639176161,Sin pisos duraderos,6012,Caldas
+Hombre,Rural,17,Mayor,109107.3,467.50214,109574.8,0.00426651146066431,Sin electricidad,5478,Caldas
+Hombre,Rural,17,Menor,2575.032,52831.58,55406.61,0.953524859218061,Sin internet,3874,Caldas
+Hombre,Rural,17,Menor,36799.47,18607.137,55406.61,0.335828829809295,Hacinamiento,702,Caldas
+Hombre,Rural,17,Menor,42574.3,12832.31,55406.61,0.231602510963945,Sin paredes duraderas,6544,Caldas
+Hombre,Rural,17,Menor,54106.99,1299.621,55406.61,0.0234560641771803,Sin pisos duraderos,6010,Caldas
+Hombre,Rural,17,Menor,55233.47,173.14095,55406.61,0.00312491505977355,Sin electricidad,5476,Caldas
+Hombre,Rural,18,Mayor,4106.78,81728.475,85835.25,0.952155146050137,Sin internet,3881,Caquetá
+Hombre,Rural,18,Mayor,59968.38,25866.88,85835.25,0.301354979451915,Hacinamiento,709,Caquetá
+Hombre,Rural,18,Mayor,79920.58,5914.676,85835.25,0.0689073078950664,Sin pisos duraderos,6017,Caquetá
+Hombre,Rural,18,Mayor,82345.59,3489.6653,85835.25,0.0406553869185445,Sin electricidad,5483,Caquetá
+Hombre,Rural,18,Mayor,85660.76,174.49235,85835.25,0.00203287518822395,Sin paredes duraderas,6551,Caquetá
+Hombre,Rural,18,Menor,3326.556,58110.43,61436.98,0.945854272133819,Sin internet,3879,Caquetá
+Hombre,Rural,18,Menor,33800.17,27636.81,61436.98,0.449839982368925,Hacinamiento,707,Caquetá
+Hombre,Rural,18,Menor,57455.24,3981.74,61436.98,0.0648101518010814,Sin pisos duraderos,6015,Caquetá
+Hombre,Rural,18,Menor,58683.22,2753.766,61436.98,0.044822613351112,Sin electricidad,5481,Caquetá
+Hombre,Rural,18,Menor,61436.98,0,61436.98,0,Sin paredes duraderas,6549,Caquetá
+Hombre,Rural,19,Mayor,17044.62,229535.65,246580.3,0.930875864779141,Sin internet,3886,Cauca
+Hombre,Rural,19,Mayor,160213.7,86366.61,246580.3,0.350257542877513,Sin paredes duraderas,6556,Cauca
+Hombre,Rural,19,Mayor,188914,57666.31,246580.3,0.233864221918783,Hacinamiento,714,Cauca
+Hombre,Rural,19,Mayor,192744,53836.32,246580.3,0.218331796984593,Sin pisos duraderos,6022,Cauca
+Hombre,Rural,19,Mayor,241141.6,5438.703,246580.3,0.0220565187081044,Sin electricidad,5488,Cauca
+Hombre,Rural,19,Menor,8410.593,116851.9,125262.5,0.932856201975851,Sin internet,3884,Cauca
+Hombre,Rural,19,Menor,70802.4,54460.09,125262.5,0.434767707813591,Hacinamiento,712,Cauca
+Hombre,Rural,19,Menor,81917.73,43344.76,125262.5,0.346031414030536,Sin paredes duraderas,6554,Cauca
+Hombre,Rural,19,Menor,92165.19,33097.29,125262.5,0.264223450753418,Sin pisos duraderos,6020,Cauca
+Hombre,Rural,19,Menor,122212.54,3049.9477,125262.5,0.0243484498553039,Sin electricidad,5486,Cauca
+Hombre,Rural,20,Mayor,1648.87,100227.6,101876.4,0.983815682532952,Sin internet,3892,Cesar
+Hombre,Rural,20,Mayor,57664.94,44211.5,101876.4,0.433971950324118,Hacinamiento,720,Cesar
+Hombre,Rural,20,Mayor,78143.06,23733.37,101876.4,0.232962393645633,Sin electricidad,5494,Cesar
+Hombre,Rural,20,Mayor,81817.273,20059.165,101876.4,0.196897073316293,Sin pisos duraderos,6028,Cesar
+Hombre,Rural,20,Mayor,85308.76,16567.68,101876.4,0.162625298891598,Sin paredes duraderas,6562,Cesar
+Hombre,Rural,20,Menor,1086.56,79289.37,80375.93,0.986481525003816,Sin internet,3889,Cesar
+Hombre,Rural,20,Menor,21559,58816.93,80375.93,0.731772932518479,Hacinamiento,717,Cesar
+Hombre,Rural,20,Menor,58686.19,21689.74,80375.93,0.269853673854847,Sin pisos duraderos,6025,Cesar
+Hombre,Rural,20,Menor,59649,20726.93,80375.93,0.257874838897665,Sin electricidad,5491,Cesar
+Hombre,Rural,20,Menor,63465.18,16910.75,80375.93,0.210395699309482,Sin paredes duraderas,6559,Cesar
+Hombre,Rural,23,Mayor,4304.329,159482.8,163787.1,0.973720152563908,Sin internet,3897,Córdoba
+Hombre,Rural,23,Mayor,77047.19,86739.91,163787.1,0.52958938768682,Sin pisos duraderos,6033,Córdoba
+Hombre,Rural,23,Mayor,99351.162,64435.94,163787.1,0.393412790140371,Hacinamiento,725,Córdoba
+Hombre,Rural,23,Mayor,135356.8,28430.33,163787.1,0.173581008516544,Sin paredes duraderas,6567,Córdoba
+Hombre,Rural,23,Mayor,159003,4784.062,163787.1,0.0292090280614285,Sin electricidad,5499,Córdoba
+Hombre,Rural,23,Menor,2221.102,108726.3,110947.4,0.979980603421081,Sin internet,3895,Córdoba
+Hombre,Rural,23,Menor,41795.21,69152.24,110947.4,0.62328851329549,Hacinamiento,723,Córdoba
+Hombre,Rural,23,Menor,42587.58,68359.86,110947.4,0.616146570356764,Sin pisos duraderos,6031,Córdoba
+Hombre,Rural,23,Menor,83736.22,27211.23,110947.4,0.245262439678622,Sin paredes duraderas,6565,Córdoba
+Hombre,Rural,23,Menor,106834,4113.463,110947.4,0.0370757944755803,Sin electricidad,5497,Córdoba
+Hombre,Rural,25,Mayor,42594.12,198260,240854.1,0.823153934269751,Sin internet,3903,Cundinamarca
+Hombre,Rural,25,Mayor,177613.9,63240.22,240854.1,0.262566508105945,Hacinamiento,731,Cundinamarca
+Hombre,Rural,25,Mayor,219777.7,21076.39,240854.1,0.0875068765696743,Sin paredes duraderas,6573,Cundinamarca
+Hombre,Rural,25,Mayor,224747.1,16107.06,240854.1,0.066874759449808,Sin pisos duraderos,6039,Cundinamarca
+Hombre,Rural,25,Mayor,238798.83,2055.307,240854.1,0.00853341089065953,Sin electricidad,5505,Cundinamarca
+Hombre,Rural,25,Menor,20475.67,110728.2,131203.9,0.84393985239768,Sin internet,3900,Cundinamarca
+Hombre,Rural,25,Menor,62163.55,69040.34,131203.9,0.5262064618506,Hacinamiento,728,Cundinamarca
+Hombre,Rural,25,Menor,121013.8,10190.11,131203.9,0.0776662126659345,Sin paredes duraderas,6570,Cundinamarca
+Hombre,Rural,25,Menor,121384.6,9819.284,131203.9,0.0748398789974993,Sin pisos duraderos,6036,Cundinamarca
+Hombre,Rural,25,Menor,130544.1,659.83699,131203.9,0.00502909585766887,Sin electricidad,5502,Cundinamarca
+Hombre,Rural,27,Mayor,2602.59,117850,120452.6,0.97839316046312,Sin internet,3908,Chocó
+Hombre,Rural,27,Mayor,80634.56,39818.04,120452.6,0.330570199397937,Hacinamiento,736,Chocó
+Hombre,Rural,27,Mayor,107574.8,12877.79,120452.6,0.106911681441496,Sin electricidad,5510,Chocó
+Hombre,Rural,27,Mayor,114275.5,6177.104,120452.6,0.0512824463730961,Sin pisos duraderos,6044,Chocó
+Hombre,Rural,27,Mayor,114387.3,6065.33,120452.6,0.0503544962914873,Sin paredes duraderas,6578,Chocó
+Hombre,Rural,27,Menor,1553.3001,117590.1,119143.4,0.986962769234385,Sin internet,3906,Chocó
+Hombre,Rural,27,Menor,53753.56,65389.855,119143.4,0.54883321275035,Hacinamiento,734,Chocó
+Hombre,Rural,27,Menor,103966.1,15177.27,119143.4,0.127386577854921,Sin electricidad,5508,Chocó
+Hombre,Rural,27,Menor,112647,6496.403,119143.4,0.0545259158291605,Sin pisos duraderos,6042,Chocó
+Hombre,Rural,27,Menor,115550.2,3593.17,119143.4,0.0301583637868317,Sin paredes duraderas,6576,Chocó
+Hombre,Rural,41,Mayor,9920.167,112724,122644.2,0.919113989899237,Sin internet,3912,Huila
+Hombre,Rural,41,Mayor,73653.45,48990.71,122644.2,0.399453948902598,Sin paredes duraderas,6582,Huila
+Hombre,Rural,41,Mayor,96644.89,25999.271,122644.2,0.211989405124743,Hacinamiento,740,Huila
+Hombre,Rural,41,Mayor,110529.24,12114.92,122644.2,0.0987810267423979,Sin pisos duraderos,6048,Huila
+Hombre,Rural,41,Mayor,120202.6,2441.5199,122644.2,0.019907340909721,Sin electricidad,5514,Huila
+Hombre,Rural,41,Menor,4929.904,62732.01,67661.91,0.927139213185085,Sin internet,3910,Huila
+Hombre,Rural,41,Menor,40312.28,27349.63,67661.91,0.40421013831859,Sin paredes duraderas,6580,Huila
+Hombre,Rural,41,Menor,42428.52,25233.4,67661.91,0.372933604741575,Hacinamiento,738,Huila
+Hombre,Rural,41,Menor,60400.97,7260.948,67661.91,0.107312193817762,Sin pisos duraderos,6046,Huila
+Hombre,Rural,41,Menor,65980.8,1681.1158,67661.91,0.0248458224132307,Sin electricidad,5512,Huila
+Hombre,Rural,44,Mayor,931.49083,88882.14,89813.63,0.989628634317531,Sin internet,3918,La Guajira
+Hombre,Rural,44,Mayor,43564.18,46249.45,89813.63,0.514949122978327,Sin pisos duraderos,6054,La Guajira
+Hombre,Rural,44,Mayor,44695.244,45118.38,89813.63,0.502355600146659,Hacinamiento,746,La Guajira
+Hombre,Rural,44,Mayor,45250.87,44562.76,89813.63,0.496169234001565,Sin paredes duraderas,6588,La Guajira
+Hombre,Rural,44,Mayor,51716.24,38097.38,89813.63,0.42418261014503,Sin electricidad,5520,La Guajira
+Hombre,Rural,44,Menor,799.06981,85892.97,86692.04,0.990782660091976,Sin internet,3915,La Guajira
+Hombre,Rural,44,Menor,15846.82,70845.22,86692.04,0.817205593500857,Hacinamiento,743,La Guajira
+Hombre,Rural,44,Menor,36369.16,50322.87,86692.04,0.580478553740344,Sin paredes duraderas,6585,La Guajira
+Hombre,Rural,44,Menor,36410.6,50281.43,86692.04,0.580000539841951,Sin pisos duraderos,6051,La Guajira
+Hombre,Rural,44,Menor,48446.11,38245.93,86692.04,0.441170031296991,Sin electricidad,5517,La Guajira
+Hombre,Rural,47,Mayor,2749.77,112297.7,115047.5,0.97609856798279,Sin internet,3923,Magdalena
+Hombre,Rural,47,Mayor,63922.03,51125.49,115047.5,0.444385927551663,Hacinamiento,751,Magdalena
+Hombre,Rural,47,Mayor,78609.082,36438.433,115047.5,0.31672511788609,Sin pisos duraderos,6059,Magdalena
+Hombre,Rural,47,Mayor,98113.47,16934.05,115047.5,0.14719181207762,Sin paredes duraderas,6593,Magdalena
+Hombre,Rural,47,Mayor,100475.4,14572.09,115047.5,0.126661509376562,Sin electricidad,5525,Magdalena
+Hombre,Rural,47,Menor,1185.848,78065.42,79251.27,0.985036832848231,Sin internet,3921,Magdalena
+Hombre,Rural,47,Menor,25394.65,53856.614,79251.27,0.679567835316709,Hacinamiento,749,Magdalena
+Hombre,Rural,47,Menor,51269.4,27981.86,79251.27,0.353077748785603,Sin pisos duraderos,6057,Magdalena
+Hombre,Rural,47,Menor,65203.39,14047.877,79251.27,0.177257437010158,Sin paredes duraderas,6591,Magdalena
+Hombre,Rural,47,Menor,69802.28,9448.983,79251.27,0.119228158741179,Sin electricidad,5523,Magdalena
+Hombre,Rural,50,Mayor,13323.43,92332.68,105656.1,0.873898241559172,Sin internet,3929,Meta
+Hombre,Rural,50,Mayor,84107.81,21548.29,105656.1,0.20394742944326,Hacinamiento,757,Meta
+Hombre,Rural,50,Mayor,96002.18,9653.922,105656.1,0.0913711749723868,Sin pisos duraderos,6065,Meta
+Hombre,Rural,50,Mayor,96273.34,9382.762,105656.1,0.0888047353631262,Sin electricidad,5531,Meta
+Hombre,Rural,50,Mayor,102862.9,2793.2493,105656.1,0.0264371796801131,Sin paredes duraderas,6599,Meta
+Hombre,Rural,50,Menor,8520.4618,48513.14,57033.6,0.850606309263311,Sin internet,3926,Meta
+Hombre,Rural,50,Menor,34770.78,22262.82,57033.6,0.390345690961118,Hacinamiento,754,Meta
+Hombre,Rural,50,Menor,52424.92,4608.686,57033.6,0.0808065070414633,Sin electricidad,5528,Meta
+Hombre,Rural,50,Menor,53405.46,3628.144,57033.6,0.0636141502552881,Sin pisos duraderos,6062,Meta
+Hombre,Rural,50,Menor,54771.09,2262.51,57033.6,0.0396697736071369,Sin paredes duraderas,6596,Meta
+Hombre,Rural,52,Mayor,10450.8,257870.4,268321.24,0.961051014820892,Sin internet,3934,Nariño
+Hombre,Rural,52,Mayor,199155,69166.23,268321.24,0.25777396526641,Hacinamiento,762,Nariño
+Hombre,Rural,52,Mayor,209516,58805.23,268321.24,0.219159802630608,Sin paredes duraderas,6604,Nariño
+Hombre,Rural,52,Mayor,242459.7,25861.57,268321.24,0.0963828655532451,Sin pisos duraderos,6070,Nariño
+Hombre,Rural,52,Mayor,261754.9,6566.353,268321.24,0.024471983656605,Sin electricidad,5536,Nariño
+Hombre,Rural,52,Menor,5381.34,128262.5,133643.9,0.959733291231399,Sin internet,3932,Nariño
+Hombre,Rural,52,Menor,75551.13,58092.73,133643.9,0.434682989646366,Hacinamiento,760,Nariño
+Hombre,Rural,52,Menor,112199.3,21444.55,133643.9,0.160460372676942,Sin paredes duraderas,6602,Nariño
+Hombre,Rural,52,Menor,123780.39,9863.472,133643.9,0.0738041317261768,Sin pisos duraderos,6068,Nariño
+Hombre,Rural,52,Menor,128454.59,5189.272,133643.9,0.0388290973250556,Sin electricidad,5534,Nariño
+Hombre,Rural,54,Mayor,4189.031,123338.5,127527.5,0.96715218286252,Sin internet,3939,Norte de Santander
+Hombre,Rural,54,Mayor,75309.11,52218.4,127527.5,0.409467761855286,Sin paredes duraderas,6609,Norte de Santander
+Hombre,Rural,54,Mayor,79614.12,47913.39,127527.5,0.375710258571681,Hacinamiento,767,Norte de Santander
+Hombre,Rural,54,Mayor,109293.6,18233.93,127527.5,0.142980376781479,Sin pisos duraderos,6075,Norte de Santander
+Hombre,Rural,54,Mayor,124441.7,3085.827,127527.5,0.0241973456705416,Sin electricidad,5541,Norte de Santander
+Hombre,Rural,54,Menor,1295.743,78163.74,79459.48,0.983693072242607,Sin internet,3936,Norte de Santander
+Hombre,Rural,54,Menor,32311.34,47148.14,79459.48,0.593360792192448,Hacinamiento,764,Norte de Santander
+Hombre,Rural,54,Menor,47567.33,31892.16,79459.48,0.401363814613436,Sin paredes duraderas,6606,Norte de Santander
+Hombre,Rural,54,Menor,64573.24,14886.24,79459.48,0.187343788305687,Sin pisos duraderos,6072,Norte de Santander
+Hombre,Rural,54,Menor,76833.44,2626.041,79459.48,0.0330488067628935,Sin electricidad,5538,Norte de Santander
+Hombre,Rural,63,Mayor,15188.34,83593.62,98781.97,0.846243702165486,Sin internet,3944,Quindio
+Hombre,Rural,63,Mayor,78468.78,20313.185,98781.97,0.205636565053319,Sin paredes duraderas,6614,Quindio
+Hombre,Rural,63,Mayor,87034.84,11747.12,98781.97,0.118919677345977,Hacinamiento,772,Quindio
+Hombre,Rural,63,Mayor,98151.902,630.06532,98781.97,0.00637834333532729,Sin pisos duraderos,6080,Quindio
+Hombre,Rural,63,Mayor,98781.97,0,98781.97,0,Sin electricidad,5546,Quindio
+Hombre,Rural,63,Menor,6380.852,30208.3,36589.15,0.8256081379316,Sin internet,3942,Quindio
+Hombre,Rural,63,Menor,26293.71,10295.44,36589.15,0.28137958930448,Hacinamiento,770,Quindio
+Hombre,Rural,63,Menor,26819.21,9769.943,36589.15,0.267017490157601,Sin paredes duraderas,6612,Quindio
+Hombre,Rural,63,Menor,35422.23,1166.918,36589.15,0.0318924599232286,Sin pisos duraderos,6078,Quindio
+Hombre,Rural,63,Menor,36589.15,0,36589.15,0,Sin electricidad,5544,Quindio
+Hombre,Rural,66,Mayor,10021.52,105143.3,115164.8,0.912981223429381,Sin internet,3950,Risaralda
+Hombre,Rural,66,Mayor,91243.56,23921.288,115164.8,0.207713537469782,Sin paredes duraderas,6620,Risaralda
+Hombre,Rural,66,Mayor,96326.39,18838.46,115164.8,0.163578280863597,Hacinamiento,778,Risaralda
+Hombre,Rural,66,Mayor,113363.2,1801.656,115164.8,0.0156441551585207,Sin pisos duraderos,6086,Risaralda
+Hombre,Rural,66,Mayor,114769.29,395.55719,115164.8,0.00343470565658951,Sin electricidad,5552,Risaralda
+Hombre,Rural,66,Menor,5393.894,54266.59,59660.48,0.909590234607566,Sin internet,3947,Risaralda
+Hombre,Rural,66,Menor,41720.42,17940.06,59660.48,0.300702575641363,Hacinamiento,775,Risaralda
+Hombre,Rural,66,Menor,47688.48,11972.01,59660.48,0.200669019089354,Sin paredes duraderas,6617,Risaralda
+Hombre,Rural,66,Menor,58742.5,917.98539,59660.48,0.0153868254160878,Sin pisos duraderos,6083,Risaralda
+Hombre,Rural,66,Menor,59440.47,220.01852,59660.48,0.00368784361104704,Sin electricidad,5549,Risaralda
+Hombre,Rural,68,Mayor,10448.42,160380.6,170829,0.938837082696732,Sin internet,3956,Santander
+Hombre,Rural,68,Mayor,124490,46339.03,170829,0.271259739271435,Sin paredes duraderas,6626,Santander
+Hombre,Rural,68,Mayor,127326.3,43502.72,170829,0.254656527872902,Hacinamiento,784,Santander
+Hombre,Rural,68,Mayor,159339.1,11489.992,170829,0.067260195868383,Sin pisos duraderos,6092,Santander
+Hombre,Rural,68,Mayor,167500.3,3328.777,170829,0.0194860181819246,Sin electricidad,5558,Santander
+Hombre,Rural,68,Menor,5404.908,81388.56,86793.46,0.937726874812918,Sin internet,3953,Santander
+Hombre,Rural,68,Menor,47443.18,39350.28,86793.46,0.453378399708918,Hacinamiento,781,Santander
+Hombre,Rural,68,Menor,68938.11,17855.35,86793.46,0.205722297509513,Sin paredes duraderas,6623,Santander
+Hombre,Rural,68,Menor,81940.86,4852.606,86793.46,0.0559098116378815,Sin pisos duraderos,6089,Santander
+Hombre,Rural,68,Menor,86318.21,475.25602,86793.46,0.0054757123405381,Sin electricidad,5555,Santander
+Hombre,Rural,70,Mayor,9274.5408,86945.14,96219.68,0.90361077900072,Sin internet,3962,Sucre
+Hombre,Rural,70,Mayor,53431.95,42787.73,96219.68,0.4446879266279,Sin pisos duraderos,6098,Sucre
+Hombre,Rural,70,Mayor,60449.18,35770.5,96219.68,0.371758667249777,Hacinamiento,790,Sucre
+Hombre,Rural,70,Mayor,71615.96,24603.71,96219.68,0.25570351096574,Sin paredes duraderas,6632,Sucre
+Hombre,Rural,70,Mayor,90524.586,5695.0931,96219.68,0.0591884435699641,Sin electricidad,5564,Sucre
+Hombre,Rural,70,Menor,5616.152,56179.98,61796.14,0.909117948143687,Sin internet,3959,Sucre
+Hombre,Rural,70,Menor,24057.19,37738.949,61796.14,0.6107007492701,Hacinamiento,787,Sucre
+Hombre,Rural,70,Menor,34561.16,27234.98,61796.14,0.440722996614352,Sin pisos duraderos,6095,Sucre
+Hombre,Rural,70,Menor,45778.83,16017.31,61796.14,0.25919596272518,Sin paredes duraderas,6629,Sucre
+Hombre,Rural,70,Menor,58230.32,3565.821,61796.14,0.0577029730335908,Sin electricidad,5561,Sucre
+Hombre,Rural,73,Mayor,7944.403,143486.9,151431.3,0.94753792643925,Sin internet,3967,Tolima
+Hombre,Rural,73,Mayor,120829.2,30602.01,151431.3,0.202085103938221,Hacinamiento,795,Tolima
+Hombre,Rural,73,Mayor,128895.7,22535.55,151431.3,0.148816988297664,Sin paredes duraderas,6637,Tolima
+Hombre,Rural,73,Mayor,141119.5,10311.79,151431.3,0.0680954994112842,Sin pisos duraderos,6103,Tolima
+Hombre,Rural,73,Mayor,147777.9,3653.395,151431.3,0.0241257586773672,Sin electricidad,5569,Tolima
+Hombre,Rural,73,Menor,6193.746,81498.981,87692.73,0.929369869087209,Sin internet,3965,Tolima
+Hombre,Rural,73,Menor,46699.093,40993.63,87692.73,0.46746896806611,Hacinamiento,793,Tolima
+Hombre,Rural,73,Menor,73492.11,14200.62,87692.73,0.161936114886605,Sin paredes duraderas,6635,Tolima
+Hombre,Rural,73,Menor,81407.89,6284.835,87692.73,0.0716688259106542,Sin pisos duraderos,6101,Tolima
+Hombre,Rural,73,Menor,85888.86,1803.867,87692.73,0.0205703140955926,Sin electricidad,5567,Tolima
+Hombre,Rural,76,Mayor,64284.34,177394.1,241678.4,0.734008914325815,Sin internet,3971,Valle del Cauca
+Hombre,Rural,76,Mayor,198386,43292.41,241678.4,0.179132309714066,Sin paredes duraderas,6641,Valle del Cauca
+Hombre,Rural,76,Mayor,201715.6,39962.83,241678.4,0.165355406192692,Hacinamiento,799,Valle del Cauca
+Hombre,Rural,76,Mayor,236065.9,5612.52,241678.4,0.023223093168442,Sin electricidad,5573,Valle del Cauca
+Hombre,Rural,76,Mayor,239178.1,2500.274,241678.4,0.0103454590894346,Sin pisos duraderos,6107,Valle del Cauca
+Hombre,Rural,76,Menor,29033,80874.06,109907.1,0.735840177750118,Sin internet,3969,Valle del Cauca
+Hombre,Rural,76,Menor,69149.2,40757.85,109907.1,0.370839099566816,Hacinamiento,797,Valle del Cauca
+Hombre,Rural,76,Menor,90588.15,19318.905,109907.1,0.175774858949058,Sin paredes duraderas,6639,Valle del Cauca
+Hombre,Rural,76,Menor,108293.69,1613.366,109907.1,0.0146793610239921,Sin electricidad,5571,Valle del Cauca
+Hombre,Rural,76,Menor,109478.6,428.42673,109907.1,0.0038980805607645,Sin pisos duraderos,6105,Valle del Cauca
+Hombre,Urbano,5,Mayor,1061433.6,564579.8,1626013.4,0.347217187755033,Sin internet,3710,Antioquia
+Hombre,Urbano,5,Mayor,1452971.5,173041.9,1626013.4,0.106420955694461,Hacinamiento,538,Antioquia
+Hombre,Urbano,5,Mayor,1617969.8,8043.633,1626013.4,0.00494684299649683,Sin paredes duraderas,6380,Antioquia
+Hombre,Urbano,5,Mayor,1620109.1,5904.366,1626013.4,0.00363119147726581,Sin pisos duraderos,5846,Antioquia
+Hombre,Urbano,5,Mayor,1625827.7,185.70462,1626013.4,0.000114208542192826,Sin electricidad,5312,Antioquia
+Hombre,Urbano,5,Menor,352915.3,255605.4,608520.7,0.420043886756852,Sin internet,3707,Antioquia
+Hombre,Urbano,5,Menor,448591.7,159928.9,608520.7,0.262815874628423,Hacinamiento,535,Antioquia
+Hombre,Urbano,5,Menor,603392.9,5127.841,608520.7,0.00842673223770367,Sin pisos duraderos,5843,Antioquia
+Hombre,Urbano,5,Menor,603515.4,5005.314,608520.7,0.00822538000761519,Sin paredes duraderas,6377,Antioquia
+Hombre,Urbano,5,Menor,608520.7,0,608520.7,0,Sin electricidad,5309,Antioquia
+Hombre,Urbano,8,Mayor,366473.9,371589.1,738063,0.503465286838657,Sin internet,3716,Atlántico
+Hombre,Urbano,8,Mayor,528378.1,209684.9,738063,0.284101628180792,Hacinamiento,544,Atlántico
+Hombre,Urbano,8,Mayor,730015.7,8047.315,738063,0.0109032900985417,Sin pisos duraderos,5852,Atlántico
+Hombre,Urbano,8,Mayor,736392.5,1670.559,738063,0.00226343686108096,Sin paredes duraderas,6386,Atlántico
+Hombre,Urbano,8,Mayor,737923.19,139.82316,738063,0.000189446104194357,Sin electricidad,5318,Atlántico
+Hombre,Urbano,8,Menor,146529.5,183568,330097.52,0.556102330002358,Sin internet,3713,Atlántico
+Hombre,Urbano,8,Menor,180056.2,150041.3,330097.52,0.454536283701859,Hacinamiento,541,Atlántico
+Hombre,Urbano,8,Menor,323623,6474.473,330097.52,0.0196138189708302,Sin pisos duraderos,5849,Atlántico
+Hombre,Urbano,8,Menor,329081.5,1016.048,330097.52,0.00307802373068419,Sin paredes duraderas,6383,Atlántico
+Hombre,Urbano,8,Menor,330049.9,47.6505928,330097.52,0.000144353077236085,Sin electricidad,5315,Atlántico
+Hombre,Urbano,11,Mayor,1931709.3,826910.4,2758619.7,0.299755127537152,Sin internet,3722,"Bogotá, D.C."
+Hombre,Urbano,11,Mayor,2452750.4,305869.3,2758619.7,0.110877661027361,Hacinamiento,550,"Bogotá, D.C."
+Hombre,Urbano,11,Mayor,2749593.2,9026.519,2758619.7,0.00327211431137101,Sin pisos duraderos,5858,"Bogotá, D.C."
+Hombre,Urbano,11,Mayor,2752095.1,6524.628,2758619.7,0.00236517849850779,Sin paredes duraderas,6392,"Bogotá, D.C."
+Hombre,Urbano,11,Mayor,2758619.7,0,2758619.7,0,Sin electricidad,5324,"Bogotá, D.C."
+Hombre,Urbano,11,Menor,658483.6,367824,1026307.6,0.358395475196715,Sin internet,3719,"Bogotá, D.C."
+Hombre,Urbano,11,Menor,757033.6,269274,1026307.6,0.262371632052613,Hacinamiento,547,"Bogotá, D.C."
+Hombre,Urbano,11,Menor,1018507.6,7800.011,1026307.6,0.00760007136262072,Sin pisos duraderos,5855,"Bogotá, D.C."
+Hombre,Urbano,11,Menor,1023041,3266.595,1026307.6,0.0031828615514491,Sin paredes duraderas,6389,"Bogotá, D.C."
+Hombre,Urbano,11,Menor,1026307.6,0,1026307.6,0,Sin electricidad,5321,"Bogotá, D.C."
+Hombre,Urbano,13,Mayor,174092.4,350185,524277.4,0.667938385289925,Sin internet,3728,Bolívar
+Hombre,Urbano,13,Mayor,362639.9,161637.5,524277.4,0.308305297920528,Hacinamiento,556,Bolívar
+Hombre,Urbano,13,Mayor,489791.6,34485.81,524277.4,0.065777792443466,Sin pisos duraderos,5864,Bolívar
+Hombre,Urbano,13,Mayor,515498,8779.3566,524277.4,0.0167456323694289,Sin paredes duraderas,6398,Bolívar
+Hombre,Urbano,13,Mayor,523610.4,666.96519,524277.4,0.00127216086369544,Sin electricidad,5330,Bolívar
+Hombre,Urbano,13,Menor,68232.83,204579.5,272812.3,0.749891042302711,Sin internet,3725,Bolívar
+Hombre,Urbano,13,Menor,133258,139554.3,272812.3,0.511539618998117,Hacinamiento,553,Bolívar
+Hombre,Urbano,13,Menor,244612.1,28200.18,272812.3,0.103368433168153,Sin pisos duraderos,5861,Bolívar
+Hombre,Urbano,13,Menor,267732.88,5079.411,272812.3,0.0186187023092434,Sin paredes duraderas,6395,Bolívar
+Hombre,Urbano,13,Menor,272747.4,64.855415,272812.3,0.000237729072332882,Sin electricidad,5327,Bolívar
+Hombre,Urbano,15,Mayor,130587.46,154505.2,285092.7,0.541947233303413,Sin internet,3734,Boyacá
+Hombre,Urbano,15,Mayor,256974.5,28118.15,285092.7,0.0986280953528449,Hacinamiento,562,Boyacá
+Hombre,Urbano,15,Mayor,280493.8,4598.882,285092.7,0.0161311811912406,Sin paredes duraderas,6404,Boyacá
+Hombre,Urbano,15,Mayor,284260.02,832.64575,285092.7,0.00292061406693332,Sin pisos duraderos,5870,Boyacá
+Hombre,Urbano,15,Mayor,284355.9,736.74906,285092.7,0.00258424386173339,Sin electricidad,5336,Boyacá
+Hombre,Urbano,15,Menor,54546.51,79018.05,133564.6,0.591609228792659,Sin internet,3731,Boyacá
+Hombre,Urbano,15,Menor,108121.2,25443.39,133564.6,0.190495011402722,Hacinamiento,559,Boyacá
+Hombre,Urbano,15,Menor,132392.8,1171.716,133564.6,0.00877265383192852,Sin paredes duraderas,6401,Boyacá
+Hombre,Urbano,15,Menor,133529.61,34.943408,133564.6,0.000261621777027745,Sin pisos duraderos,5867,Boyacá
+Hombre,Urbano,15,Menor,133554.8,9.7988329,133564.6,7.33639968973815E-05,Sin electricidad,5333,Boyacá
+Hombre,Urbano,17,Mayor,145813,110901.5,256714.5,0.432003256535957,Sin internet,3740,Caldas
+Hombre,Urbano,17,Mayor,226999,29715.468,256714.5,0.115752978503357,Hacinamiento,568,Caldas
+Hombre,Urbano,17,Mayor,234383.1,22331.39,256714.5,0.0869892039600412,Sin paredes duraderas,6410,Caldas
+Hombre,Urbano,17,Mayor,256461.4,253.0961,256714.5,0.000985904964464415,Sin electricidad,5342,Caldas
+Hombre,Urbano,17,Mayor,256535.39,179.11542,256714.5,0.00069772225565755,Sin pisos duraderos,5876,Caldas
+Hombre,Urbano,17,Menor,53474.16,52439.42,105913.6,0.495115074928999,Sin internet,3737,Caldas
+Hombre,Urbano,17,Menor,80668.16,25245.42,105913.6,0.238358624388181,Hacinamiento,565,Caldas
+Hombre,Urbano,17,Menor,97675.393,8238.184,105913.6,0.0777821167442141,Sin paredes duraderas,6407,Caldas
+Hombre,Urbano,17,Menor,105776.6,136.98536,105913.6,0.00129336893467883,Sin pisos duraderos,5873,Caldas
+Hombre,Urbano,17,Menor,105913.6,0,105913.6,0,Sin electricidad,5339,Caldas
+Hombre,Urbano,18,Mayor,41985.65,69023.7,111009.4,0.621782479681901,Sin internet,3745,Caquetá
+Hombre,Urbano,18,Mayor,87720.05,23289.31,111009.4,0.20979583710929,Hacinamiento,573,Caquetá
+Hombre,Urbano,18,Mayor,109306.11,1703.249,111009.4,0.015343286244228,Sin pisos duraderos,5881,Caquetá
+Hombre,Urbano,18,Mayor,110369.5,639.858902,111009.4,0.00576400648954052,Sin electricidad,5347,Caquetá
+Hombre,Urbano,18,Mayor,110913.7,95.687376,111009.4,0.000861975436314402,Sin paredes duraderas,6415,Caquetá
+Hombre,Urbano,18,Menor,24641.6,45013.131,69654.73,0.646232222851198,Sin internet,3743,Caquetá
+Hombre,Urbano,18,Menor,46503.04,23151.69,69654.73,0.332377858617785,Hacinamiento,571,Caquetá
+Hombre,Urbano,18,Menor,68648.69,1006.048,69654.73,0.0144433551030921,Sin pisos duraderos,5879,Caquetá
+Hombre,Urbano,18,Menor,69582.77,71.962806,69654.73,0.00103313595501698,Sin electricidad,5345,Caquetá
+Hombre,Urbano,18,Menor,69624.7,30.035868,69654.73,0.000431210744769235,Sin paredes duraderas,6413,Caquetá
+Hombre,Urbano,19,Mayor,97345.37,136441.2,233786.62,0.58361423763259,Sin internet,3751,Cauca
+Hombre,Urbano,19,Mayor,196578.6,37208.06,233786.62,0.159153932761422,Hacinamiento,579,Cauca
+Hombre,Urbano,19,Mayor,213944.4,19842.19,233786.62,0.0848730778519318,Sin paredes duraderas,6421,Cauca
+Hombre,Urbano,19,Mayor,230645.75,3140.869,233786.62,0.0134347679948493,Sin pisos duraderos,5887,Cauca
+Hombre,Urbano,19,Mayor,232671.8,1114.8364,233786.62,0.00476860651820023,Sin electricidad,5353,Cauca
+Hombre,Urbano,19,Menor,37352.18,74108.788,111460.97,0.664885546931809,Sin internet,3748,Cauca
+Hombre,Urbano,19,Menor,76287.22,35173.75,111460.97,0.315570104943461,Hacinamiento,576,Cauca
+Hombre,Urbano,19,Menor,101884.6,9576.37,111460.97,0.0859168011905872,Sin paredes duraderas,6418,Cauca
+Hombre,Urbano,19,Menor,110110.2,1350.729,111460.97,0.0121184034196006,Sin pisos duraderos,5884,Cauca
+Hombre,Urbano,19,Menor,111460.97,0,111460.97,0,Sin electricidad,5350,Cauca
+Hombre,Urbano,20,Mayor,87424.52,155188.7,242613.2,0.639654808559468,Sin internet,3757,Cesar
+Hombre,Urbano,20,Mayor,158483.33,84129.85,242613.2,0.346765345001838,Hacinamiento,585,Cesar
+Hombre,Urbano,20,Mayor,232734,9879.219,242613.2,0.0407200391404919,Sin pisos duraderos,5893,Cesar
+Hombre,Urbano,20,Mayor,234437.52,8175.657,242613.2,0.0336983189702786,Sin paredes duraderas,6427,Cesar
+Hombre,Urbano,20,Mayor,242497.7,115.49974,242613.2,0.000476065358356429,Sin electricidad,5359,Cesar
+Hombre,Urbano,20,Menor,47860.38,100149.8,148010.2,0.676641204457531,Sin internet,3754,Cesar
+Hombre,Urbano,20,Menor,70802.01,77208.17,148010.2,0.521640873399266,Hacinamiento,582,Cesar
+Hombre,Urbano,20,Menor,137458,10552.18,148010.2,0.0712936000356732,Sin pisos duraderos,5890,Cesar
+Hombre,Urbano,20,Menor,140133.8,7876.36,148010.2,0.0532149811296789,Sin paredes duraderas,6424,Cesar
+Hombre,Urbano,20,Menor,147948.9,61.238967,148010.2,0.000413748288969274,Sin electricidad,5356,Cesar
+Hombre,Urbano,23,Mayor,103697.8,209226.6,312924.4,0.668617084509869,Sin internet,3763,Córdoba
+Hombre,Urbano,23,Mayor,215095.5,97828.87,312924.4,0.31262781042322,Hacinamiento,591,Córdoba
+Hombre,Urbano,23,Mayor,276913.8,36010.57,312924.4,0.115077539495162,Sin pisos duraderos,5899,Córdoba
+Hombre,Urbano,23,Mayor,300472.5,12451.94,312924.4,0.0397921670537676,Sin paredes duraderas,6433,Córdoba
+Hombre,Urbano,23,Mayor,312648,276.3655,312924.4,0.000883170184236192,Sin electricidad,5365,Córdoba
+Hombre,Urbano,23,Menor,47221.42,117647.4,164868.8,0.713581951224246,Sin internet,3760,Córdoba
+Hombre,Urbano,23,Menor,86815.23,78053.55,164868.8,0.473428265384354,Hacinamiento,588,Córdoba
+Hombre,Urbano,23,Menor,139671.2,25197.62,164868.8,0.152834374969673,Sin pisos duraderos,5896,Córdoba
+Hombre,Urbano,23,Menor,159222.3,5646.512,164868.8,0.0342485176091535,Sin paredes duraderas,6430,Córdoba
+Hombre,Urbano,23,Menor,164868.8,0,164868.8,0,Sin electricidad,5362,Córdoba
+Hombre,Urbano,25,Mayor,256475.9,248132.52,504608.4,0.491732836789875,Sin internet,3769,Cundinamarca
+Hombre,Urbano,25,Mayor,435606.9,69001.45,504608.4,0.136742571070953,Hacinamiento,597,Cundinamarca
+Hombre,Urbano,25,Mayor,495450.4,9157.982,504608.4,0.0181486911434689,Sin paredes duraderas,6439,Cundinamarca
+Hombre,Urbano,25,Mayor,502260.9,2347.459,504608.4,0.00465204106788551,Sin pisos duraderos,5905,Cundinamarca
+Hombre,Urbano,25,Mayor,504608.4,0,504608.4,0,Sin electricidad,5371,Cundinamarca
+Hombre,Urbano,25,Menor,93801.36,116965.8,210767.1,0.554952836566997,Sin internet,3766,Cundinamarca
+Hombre,Urbano,25,Menor,145824.9,64942.19,210767.1,0.308122994528083,Hacinamiento,594,Cundinamarca
+Hombre,Urbano,25,Menor,206877.3,3889.819,210767.1,0.0184555321964386,Sin paredes duraderas,6436,Cundinamarca
+Hombre,Urbano,25,Menor,209708.5,1058.609,210767.1,0.00502264822166268,Sin pisos duraderos,5902,Cundinamarca
+Hombre,Urbano,25,Menor,210767.1,0,210767.1,0,Sin electricidad,5368,Cundinamarca
+Hombre,Urbano,27,Mayor,21927.19,62741.22,84668.4,0.741022860949303,Sin internet,3775,Chocó
+Hombre,Urbano,27,Mayor,72329.92,12338.478,84668.4,0.14572707172924,Hacinamiento,603,Chocó
+Hombre,Urbano,27,Mayor,78411.7,6256.7,84668.4,0.0738965186539488,Sin paredes duraderas,6445,Chocó
+Hombre,Urbano,27,Mayor,84237.52,430.88434,84668.4,0.00508908093220139,Sin pisos duraderos,5911,Chocó
+Hombre,Urbano,27,Mayor,84420.57,247.83318,84668.4,0.00292710361835112,Sin electricidad,5377,Chocó
+Hombre,Urbano,27,Menor,14931.151,50876.161,65807.312,0.773108024834687,Sin internet,3772,Chocó
+Hombre,Urbano,27,Menor,48851.36,16955.95,65807.312,0.257660577292687,Hacinamiento,600,Chocó
+Hombre,Urbano,27,Menor,60815.778,4991.534,65807.312,0.0758507504454824,Sin paredes duraderas,6442,Chocó
+Hombre,Urbano,27,Menor,65354.21,453.10148,65807.312,0.00688527560584757,Sin pisos duraderos,5908,Chocó
+Hombre,Urbano,27,Menor,65476.86,330.45154,65807.312,0.00502150186593247,Sin electricidad,5374,Chocó
+Hombre,Urbano,41,Mayor,98611.42,133329.5,231940.91,0.574842532091471,Sin internet,3781,Huila
+Hombre,Urbano,41,Mayor,195918.1,36022.845,231940.91,0.155310440922216,Hacinamiento,609,Huila
+Hombre,Urbano,41,Mayor,205277.7,26663.23,231940.91,0.114956994865632,Sin paredes duraderas,6451,Huila
+Hombre,Urbano,41,Mayor,229493,2447.949,231940.91,0.0105541924449637,Sin pisos duraderos,5917,Huila
+Hombre,Urbano,41,Mayor,231852.1,88.842202,231940.91,0.000383038085001908,Sin electricidad,5383,Huila
+Hombre,Urbano,41,Menor,47776.39,78659.99,126436.4,0.622130889522321,Sin internet,3778,Huila
+Hombre,Urbano,41,Menor,86567.8,39868.58,126436.4,0.315325175345075,Hacinamiento,606,Huila
+Hombre,Urbano,41,Menor,104963.8,21472.55,126436.4,0.169828862574385,Sin paredes duraderas,6448,Huila
+Hombre,Urbano,41,Menor,124516.7,1919.632,126436.4,0.0151825898238166,Sin pisos duraderos,5914,Huila
+Hombre,Urbano,41,Menor,126397.1,39.258429,126436.4,0.000310499421052798,Sin electricidad,5380,Huila
+Hombre,Urbano,44,Mayor,44311.727,105306.8,149618.5,0.703835421421816,Sin internet,3787,La Guajira
+Hombre,Urbano,44,Mayor,94737.256,54881.28,149618.5,0.366808115306596,Hacinamiento,615,La Guajira
+Hombre,Urbano,44,Mayor,138588.9,11029.682,149618.5,0.0737187045719614,Sin paredes duraderas,6457,La Guajira
+Hombre,Urbano,44,Mayor,141724.6,7893.89,149618.5,0.0527601199049583,Sin pisos duraderos,5923,La Guajira
+Hombre,Urbano,44,Mayor,149006,612.53592,149618.5,0.00409398516894635,Sin electricidad,5389,La Guajira
+Hombre,Urbano,44,Menor,32195.7,78882.69,111078.4,0.710153279125375,Sin internet,3784,La Guajira
+Hombre,Urbano,44,Menor,49717.53,61360.87,111078.4,0.552410459639318,Hacinamiento,612,La Guajira
+Hombre,Urbano,44,Menor,100238.6,10839.76,111078.4,0.0975865694860567,Sin paredes duraderas,6454,La Guajira
+Hombre,Urbano,44,Menor,103190.1,7888.313,111078.4,0.0710157240291542,Sin pisos duraderos,5920,La Guajira
+Hombre,Urbano,44,Menor,110650.9,427.47501,111078.4,0.00384840806133326,Sin electricidad,5386,La Guajira
+Hombre,Urbano,47,Mayor,87883.88,180500.2,268384.1,0.672544312423873,Sin internet,3793,Magdalena
+Hombre,Urbano,47,Mayor,169864.5,98519.55,268384.1,0.367084152898775,Hacinamiento,621,Magdalena
+Hombre,Urbano,47,Mayor,256315.2,12068.89,268384.1,0.0449687220666202,Sin pisos duraderos,5929,Magdalena
+Hombre,Urbano,47,Mayor,262720.1,5663.937,268384.1,0.0211038470609846,Sin paredes duraderas,6463,Magdalena
+Hombre,Urbano,47,Mayor,268311.5,72.592654,268384.1,0.000270480456927217,Sin electricidad,5395,Magdalena
+Hombre,Urbano,47,Menor,42353.46,105315.1,147668.5,0.713185953673261,Sin internet,3790,Magdalena
+Hombre,Urbano,47,Menor,61440.82,86227.72,147668.5,0.583927648753797,Hacinamiento,618,Magdalena
+Hombre,Urbano,47,Menor,141463.4,6205.096,147668.5,0.0420204444414347,Sin pisos duraderos,5926,Magdalena
+Hombre,Urbano,47,Menor,144891.7,2776.851,147668.5,0.0188046265791283,Sin paredes duraderas,6460,Magdalena
+Hombre,Urbano,47,Menor,147652.4,16.188511,147668.5,0.000109627381601357,Sin electricidad,5392,Magdalena
+Hombre,Urbano,50,Mayor,113994.1,110604.8,224598.8,0.492454990854804,Sin internet,3799,Meta
+Hombre,Urbano,50,Mayor,197364.66,27234.16,224598.8,0.121256925682595,Hacinamiento,627,Meta
+Hombre,Urbano,50,Mayor,222332,2266.794,224598.8,0.0100926362919125,Sin pisos duraderos,5935,Meta
+Hombre,Urbano,50,Mayor,223137,1461.813,224598.8,0.00650855213830172,Sin paredes duraderas,6469,Meta
+Hombre,Urbano,50,Mayor,224001.1,597.76266,224598.8,0.00266146862761511,Sin electricidad,5401,Meta
+Hombre,Urbano,50,Menor,55872.01,56078.07,111950.1,0.500920231424536,Sin internet,3796,Meta
+Hombre,Urbano,50,Menor,85769.44,26180.64,111950.1,0.233859907226523,Hacinamiento,624,Meta
+Hombre,Urbano,50,Menor,110767,1183.113,111950.1,0.0105682174468804,Sin pisos duraderos,5932,Meta
+Hombre,Urbano,50,Menor,110874.4,1075.705,111950.1,0.00960878998768201,Sin paredes duraderas,6466,Meta
+Hombre,Urbano,50,Menor,111844.3,105.79168,111950.1,0.000944989598044129,Sin electricidad,5398,Meta
+Hombre,Urbano,52,Mayor,127771.8,197880.2,325652,0.607643128247332,Sin internet,3805,Nariño
+Hombre,Urbano,52,Mayor,279495.9,46156.08,325652,0.141734366747325,Hacinamiento,633,Nariño
+Hombre,Urbano,52,Mayor,304926.65,20725.32,325652,0.0636425386609018,Sin paredes duraderas,6475,Nariño
+Hombre,Urbano,52,Mayor,323039.4,2612.585,325652,0.00802262845000184,Sin pisos duraderos,5941,Nariño
+Hombre,Urbano,52,Mayor,325354.1,297.8698,325652,0.000914687457777014,Sin electricidad,5407,Nariño
+Hombre,Urbano,52,Menor,50021.01,91194.35,141215.4,0.645781904806416,Sin internet,3802,Nariño
+Hombre,Urbano,52,Menor,99898.26,41317.1,141215.4,0.292582112149242,Hacinamiento,630,Nariño
+Hombre,Urbano,52,Menor,133690.5,7524.865,141215.4,0.0532864333493373,Sin paredes duraderas,6472,Nariño
+Hombre,Urbano,52,Menor,139890.5,1324.849,141215.4,0.00938176006299596,Sin pisos duraderos,5938,Nariño
+Hombre,Urbano,52,Menor,141215.4,0,141215.4,0,Sin electricidad,5404,Nariño
+Hombre,Urbano,54,Mayor,138514.3,212285.8,350800.1,0.605147489980761,Sin internet,3811,Norte de Santander
+Hombre,Urbano,54,Mayor,275863.1,74936.96,350800.1,0.21361727091868,Hacinamiento,639,Norte de Santander
+Hombre,Urbano,54,Mayor,330668.96,20131.102,350800.1,0.0573862493197693,Sin paredes duraderas,6481,Norte de Santander
+Hombre,Urbano,54,Mayor,344830,5970.109,350800.1,0.017018549880687,Sin pisos duraderos,5947,Norte de Santander
+Hombre,Urbano,54,Mayor,349979.8,820.3093,350800.1,0.00233839528552016,Sin electricidad,5413,Norte de Santander
+Hombre,Urbano,54,Menor,60981.748,106947.8,167929.56,0.636861074369515,Sin internet,3808,Norte de Santander
+Hombre,Urbano,54,Menor,104505.2,63424.33,167929.56,0.37768413137032,Hacinamiento,636,Norte de Santander
+Hombre,Urbano,54,Menor,161151.9,6777.628,167929.56,0.0403599461583774,Sin paredes duraderas,6478,Norte de Santander
+Hombre,Urbano,54,Menor,164055.5,3874.086,167929.56,0.0230697085134982,Sin pisos duraderos,5944,Norte de Santander
+Hombre,Urbano,54,Menor,167594.6,334.98664,167929.56,0.00199480448826282,Sin electricidad,5410,Norte de Santander
+Hombre,Urbano,63,Mayor,113608.4,111743.7,225352.1,0.495862696642277,Sin internet,3817,Quindio
+Hombre,Urbano,63,Mayor,197742.6,27609.44,225352.1,0.122516896891575,Hacinamiento,645,Quindio
+Hombre,Urbano,63,Mayor,210558.9,14793.19,225352.1,0.0656447843175191,Sin paredes duraderas,6487,Quindio
+Hombre,Urbano,63,Mayor,224382.1,969.99255,225352.1,0.00430434218274425,Sin pisos duraderos,5953,Quindio
+Hombre,Urbano,63,Mayor,224490.1,861.96577,225352.1,0.00382497331952975,Sin electricidad,5419,Quindio
+Hombre,Urbano,63,Menor,53591.74,48074.73,101666.5,0.472866971913069,Sin internet,3814,Quindio
+Hombre,Urbano,63,Menor,72785.72,28880.75,101666.5,0.284073416513798,Hacinamiento,642,Quindio
+Hombre,Urbano,63,Menor,92631.16,9035.318,101666.5,0.0888721260198787,Sin paredes duraderas,6484,Quindio
+Hombre,Urbano,63,Menor,101324.8,341.71067,101666.5,0.00336109406736732,Sin pisos duraderos,5950,Quindio
+Hombre,Urbano,63,Menor,101545.8,120.67815,101666.5,0.00118700014262318,Sin electricidad,5416,Quindio
+Hombre,Urbano,66,Mayor,157445.9,115447.1,272893,0.42304896058162,Sin internet,3823,Risaralda
+Hombre,Urbano,66,Mayor,252272.6,20620.35,272893,0.0755620334709941,Hacinamiento,651,Risaralda
+Hombre,Urbano,66,Mayor,267932.7,4960.245,272893,0.0181765197348411,Sin paredes duraderas,6493,Risaralda
+Hombre,Urbano,66,Mayor,272708.2,184.84053,272893,0.000677337014873962,Sin pisos duraderos,5959,Risaralda
+Hombre,Urbano,66,Mayor,272861.9,31.116165,272893,0.000114023316831139,Sin electricidad,5425,Risaralda
+Hombre,Urbano,66,Menor,56865.406,49459.66,106325.1,0.465173886504692,Sin internet,3820,Risaralda
+Hombre,Urbano,66,Menor,86891.97,19433.1,106325.1,0.182770578160754,Hacinamiento,648,Risaralda
+Hombre,Urbano,66,Menor,104374,1951.032,106325.1,0.0183496841291473,Sin paredes duraderas,6490,Risaralda
+Hombre,Urbano,66,Menor,106262.8,62.23233,106325.1,0.000585302341591967,Sin electricidad,5422,Risaralda
+Hombre,Urbano,66,Menor,106274.6,50.505547,106325.1,0.000475010576054008,Sin pisos duraderos,5956,Risaralda
+Hombre,Urbano,68,Mayor,339129.53,244124.1,583253.6,0.418555667723268,Sin internet,3829,Santander
+Hombre,Urbano,68,Mayor,498164.5,85089.12,583253.6,0.145887003526425,Hacinamiento,657,Santander
+Hombre,Urbano,68,Mayor,558893.2,24360.42,583253.6,0.0417664288741638,Sin paredes duraderas,6499,Santander
+Hombre,Urbano,68,Mayor,578932.4,4321.185,583253.6,0.00740875838571764,Sin pisos duraderos,5965,Santander
+Hombre,Urbano,68,Mayor,582989.6,263.97273,583253.6,0.000452586542114785,Sin electricidad,5431,Santander
+Hombre,Urbano,68,Menor,131605.5,99191.78,230797.3,0.429778771242125,Sin internet,3826,Santander
+Hombre,Urbano,68,Menor,174275.3,56521.97,230797.3,0.244898748815519,Hacinamiento,654,Santander
+Hombre,Urbano,68,Menor,222152.6,8644.752,230797.3,0.037456036097476,Sin paredes duraderas,6496,Santander
+Hombre,Urbano,68,Menor,227848.22,2949.088,230797.3,0.0127778271236275,Sin pisos duraderos,5962,Santander
+Hombre,Urbano,68,Menor,230667.6,129.702919,230797.3,0.000561977627121288,Sin electricidad,5428,Santander
+Hombre,Urbano,70,Mayor,64040.13,123822.8,187863,0.659112225398296,Sin internet,3835,Sucre
+Hombre,Urbano,70,Mayor,129510.4,58352.62,187863,0.310612627286906,Hacinamiento,663,Sucre
+Hombre,Urbano,70,Mayor,166313.8,21549.22,187863,0.114707100386984,Sin pisos duraderos,5971,Sucre
+Hombre,Urbano,70,Mayor,173915.64,13947.34,187863,0.0742420806651656,Sin paredes duraderas,6505,Sucre
+Hombre,Urbano,70,Mayor,187188.7,674.28404,187863,0.00358923279198139,Sin electricidad,5437,Sucre
+Hombre,Urbano,70,Menor,32058.92,66794.61,98853.53,0.67569271426119,Sin internet,3832,Sucre
+Hombre,Urbano,70,Menor,52232.7,46620.83,98853.53,0.471615227094065,Hacinamiento,660,Sucre
+Hombre,Urbano,70,Menor,83240.99,15612.541,98853.53,0.157936100005736,Sin pisos duraderos,5968,Sucre
+Hombre,Urbano,70,Menor,90125.17,8728.3555,98853.53,0.0882958403205227,Sin paredes duraderas,6502,Sucre
+Hombre,Urbano,70,Menor,98817.59,35.940648,98853.53,0.000363574755499374,Sin electricidad,5434,Sucre
+Hombre,Urbano,73,Mayor,152392.4,164695.9,317088.3,0.519400747362801,Sin internet,3841,Tolima
+Hombre,Urbano,73,Mayor,263086.6,54001.64,317088.3,0.170304738459287,Hacinamiento,669,Tolima
+Hombre,Urbano,73,Mayor,304989.4,12098.9,317088.3,0.0381562485906922,Sin paredes duraderas,6511,Tolima
+Hombre,Urbano,73,Mayor,312448.2,4640.037,317088.3,0.0146332646143046,Sin pisos duraderos,5977,Tolima
+Hombre,Urbano,73,Mayor,316665.6,422.70006,317088.3,0.00133306735064018,Sin electricidad,5443,Tolima
+Hombre,Urbano,73,Menor,68345.28,93138.31,161483.6,0.576766371321917,Sin internet,3838,Tolima
+Hombre,Urbano,73,Menor,109775.6,51708.03,161483.6,0.320206076654224,Hacinamiento,666,Tolima
+Hombre,Urbano,73,Menor,153511.9,7971.737,161483.6,0.0493656135979133,Sin paredes duraderas,6508,Tolima
+Hombre,Urbano,73,Menor,158922.9,2560.662,161483.6,0.0158571025169119,Sin pisos duraderos,5974,Tolima
+Hombre,Urbano,73,Menor,161366.9,116.72289,161483.6,0.000722815753426354,Sin electricidad,5440,Tolima
+Hombre,Urbano,76,Mayor,792815.5,458260.2,1251075.7,0.366292942945019,Sin internet,3847,Valle del Cauca
+Hombre,Urbano,76,Mayor,1121753.6,129322.1,1251075.7,0.103368725010005,Hacinamiento,675,Valle del Cauca
+Hombre,Urbano,76,Mayor,1235212.6,15863.19,1251075.7,0.0126796404086499,Sin paredes duraderas,6517,Valle del Cauca
+Hombre,Urbano,76,Mayor,1247393.9,3681.88,1251075.7,0.002942971396535,Sin pisos duraderos,5983,Valle del Cauca
+Hombre,Urbano,76,Mayor,1249484.2,1591.575,1251075.7,0.00127216522549355,Sin electricidad,5449,Valle del Cauca
+Hombre,Urbano,76,Menor,311300.9,219473.1,530774,0.413496328004009,Sin internet,3844,Valle del Cauca
+Hombre,Urbano,76,Menor,397163,133611,530774,0.251728607655989,Hacinamiento,672,Valle del Cauca
+Hombre,Urbano,76,Menor,521787.4,8986.609,530774,0.0169311401839578,Sin paredes duraderas,6514,Valle del Cauca
+Hombre,Urbano,76,Menor,527632.1,3141.904,530774,0.00591947608586705,Sin pisos duraderos,5980,Valle del Cauca
+Hombre,Urbano,76,Menor,529879.9,894.1562,530774,0.0016846269787141,Sin electricidad,5446,Valle del Cauca
+Mujer,Rural,5,Mayor,53843.39,289677.9,343521.3,0.843260374247536,Sin internet,4116,Antioquia
+Mujer,Rural,5,Mayor,243847.6,99673.67,343521.3,0.290152808574024,Hacinamiento,944,Antioquia
+Mujer,Rural,5,Mayor,305419.6,38101.68,343521.3,0.11091504369598,Sin pisos duraderos,6252,Antioquia
+Mujer,Rural,5,Mayor,326360,17161.33,343521.3,0.0499571060076915,Sin paredes duraderas,6786,Antioquia
+Mujer,Rural,5,Mayor,341155,2366.252,343521.3,0.00688822498051795,Sin electricidad,5718,Antioquia
+Mujer,Rural,5,Menor,22486.97,161589.2,184076.1,0.877839111106765,Sin internet,4114,Antioquia
+Mujer,Rural,5,Menor,96728.77,87347.36,184076.1,0.474517658729189,Hacinamiento,942,Antioquia
+Mujer,Rural,5,Menor,152667.7,31408.43,184076.1,0.170627419855158,Sin pisos duraderos,6250,Antioquia
+Mujer,Rural,5,Menor,175449.4,8626.703,184076.1,0.0468648727347005,Sin paredes duraderas,6784,Antioquia
+Mujer,Rural,5,Menor,182560.7,1515.459,184076.1,0.00823278524479821,Sin electricidad,5716,Antioquia
+Mujer,Rural,8,Mayor,4066.388,70766.29,74832.68,0.945660238280922,Sin internet,4121,Atlántico
+Mujer,Rural,8,Mayor,42558.27,32274.41,74832.68,0.431287640640426,Hacinamiento,949,Atlántico
+Mujer,Rural,8,Mayor,72869.68,1962.995,74832.68,0.0262317880369913,Sin pisos duraderos,6257,Atlántico
+Mujer,Rural,8,Mayor,73452.98,1379.701,74832.68,0.0184371453755231,Sin electricidad,5723,Atlántico
+Mujer,Rural,8,Mayor,74599.64,233.034668,74832.68,0.00311407620307064,Sin paredes duraderas,6791,Atlántico
+Mujer,Rural,8,Menor,818.00543,37497.84,38315.84,0.978651127053459,Sin internet,4118,Atlántico
+Mujer,Rural,8,Menor,14782.254,23533.59,38315.84,0.614200027977985,Hacinamiento,946,Atlántico
+Mujer,Rural,8,Menor,36919.846,1395.998,38315.84,0.0364339656914738,Sin pisos duraderos,6254,Atlántico
+Mujer,Rural,8,Menor,37849.78,466.06934,38315.84,0.0121638815696067,Sin paredes duraderas,6788,Atlántico
+Mujer,Rural,8,Menor,38136.67,179.17313,38315.84,0.00467621563301235,Sin electricidad,5720,Atlántico
+Mujer,Rural,11,Mayor,209.92946,435.542511,645.47197,0.674765956142139,Sin internet,4125,"Bogotá, D.C."
+Mujer,Rural,11,Mayor,645.47197,0,645.47197,0,Hacinamiento,953,"Bogotá, D.C."
+Mujer,Rural,11,Mayor,645.47197,0,645.47197,0,Sin electricidad,5727,"Bogotá, D.C."
+Mujer,Rural,11,Mayor,645.47197,0,645.47197,0,Sin paredes duraderas,6795,"Bogotá, D.C."
+Mujer,Rural,11,Mayor,645.47197,0,645.47197,0,Sin pisos duraderos,6261,"Bogotá, D.C."
+Mujer,Rural,11,Menor,0,69.976486,69.976486,1,Sin internet,4124,"Bogotá, D.C."
+Mujer,Rural,11,Menor,69.976486,0,69.976486,0,Hacinamiento,952,"Bogotá, D.C."
+Mujer,Rural,11,Menor,69.976486,0,69.976486,0,Sin electricidad,5726,"Bogotá, D.C."
+Mujer,Rural,11,Menor,69.976486,0,69.976486,0,Sin paredes duraderas,6794,"Bogotá, D.C."
+Mujer,Rural,11,Menor,69.976486,0,69.976486,0,Sin pisos duraderos,6260,"Bogotá, D.C."
+Mujer,Rural,13,Mayor,4895.794,133216.48,138112.3,0.964551890019933,Sin internet,4129,Bolívar
+Mujer,Rural,13,Mayor,76319.97,61792.31,138112.3,0.447406277355456,Hacinamiento,957,Bolívar
+Mujer,Rural,13,Mayor,86177.7,51934.57,138112.3,0.376031461354275,Sin pisos duraderos,6265,Bolívar
+Mujer,Rural,13,Mayor,116301.8,21810.52,138112.3,0.157918737143614,Sin electricidad,5731,Bolívar
+Mujer,Rural,13,Mayor,118365.2,19747.05,138112.3,0.142978214105478,Sin paredes duraderas,6799,Bolívar
+Mujer,Rural,13,Menor,5432.881,89827.4,95260.282,0.942968025225875,Sin internet,4126,Bolívar
+Mujer,Rural,13,Menor,31289.54,63970.74,95260.282,0.67153632822544,Hacinamiento,954,Bolívar
+Mujer,Rural,13,Menor,56547.78,38712.51,95260.282,0.406386682751999,Sin pisos duraderos,6262,Bolívar
+Mujer,Rural,13,Menor,76101.8,19158.48,95260.282,0.201117187538874,Sin electricidad,5728,Bolívar
+Mujer,Rural,13,Menor,80503.52,14756.77,95260.282,0.154909997012186,Sin paredes duraderas,6796,Bolívar
+Mujer,Rural,15,Mayor,12936.58,151392.81,164329.39,0.921276528805955,Sin internet,4134,Boyacá
+Mujer,Rural,15,Mayor,131376.1,32953.3,164329.39,0.200531992481686,Hacinamiento,962,Boyacá
+Mujer,Rural,15,Mayor,145228.9,19100.47,164329.39,0.116232829684331,Sin paredes duraderas,6804,Boyacá
+Mujer,Rural,15,Mayor,158078.2,6251.208,164329.39,0.0380407180967446,Sin pisos duraderos,6270,Boyacá
+Mujer,Rural,15,Mayor,162832.2,1497.183,164329.39,0.009110865682639,Sin electricidad,5736,Boyacá
+Mujer,Rural,15,Menor,7323.641,76206.16,83529.8,0.912323027231,Sin internet,4132,Boyacá
+Mujer,Rural,15,Menor,55101.34,28428.459,83529.8,0.340339124480126,Hacinamiento,960,Boyacá
+Mujer,Rural,15,Menor,73151.87,10377.94,83529.8,0.124242366197453,Sin paredes duraderas,6802,Boyacá
+Mujer,Rural,15,Menor,80581.38,2948.419,83529.8,0.0352978098834189,Sin pisos duraderos,6268,Boyacá
+Mujer,Rural,15,Menor,81527.25,2002.553,83529.8,0.0239741146273545,Sin electricidad,5734,Boyacá
+Mujer,Rural,17,Mayor,5692.178,95380.56,101072.7,0.943682715510717,Sin internet,4140,Caldas
+Mujer,Rural,17,Mayor,75665.48,25407.26,101072.7,0.251376088696552,Sin paredes duraderas,6810,Caldas
+Mujer,Rural,17,Mayor,83203.89,17868.85,101072.7,0.176792051661824,Hacinamiento,968,Caldas
+Mujer,Rural,17,Mayor,99642.02,1430.723,101072.7,0.0141553851831405,Sin pisos duraderos,6276,Caldas
+Mujer,Rural,17,Mayor,100679.2,393.561264,101072.7,0.00389384338204085,Sin electricidad,5742,Caldas
+Mujer,Rural,17,Menor,2879.919,34503.541,37383.46,0.922962748766433,Sin internet,4137,Caldas
+Mujer,Rural,17,Menor,22424.81,14958.65,37383.46,0.400140864435769,Hacinamiento,965,Caldas
+Mujer,Rural,17,Menor,29576.78,7806.68,37383.46,0.208827112311166,Sin paredes duraderas,6807,Caldas
+Mujer,Rural,17,Menor,36086.4,1297.055,37383.46,0.0346959591220288,Sin pisos duraderos,6273,Caldas
+Mujer,Rural,17,Menor,37083.31,300.14846,37383.46,0.00802891064658007,Sin electricidad,5739,Caldas
+Mujer,Rural,18,Mayor,4293.528,76611.7,80905.23,0.946931366488916,Sin internet,4145,Caquetá
+Mujer,Rural,18,Mayor,55446.61,25458.62,80905.23,0.314672116994167,Hacinamiento,973,Caquetá
+Mujer,Rural,18,Mayor,75632.32,5272.91,80905.23,0.0651739077931056,Sin pisos duraderos,6281,Caquetá
+Mujer,Rural,18,Mayor,78124.65,2780.582,80905.23,0.034368383848609,Sin electricidad,5747,Caquetá
+Mujer,Rural,18,Mayor,80713.86,191.3764,80905.23,0.00236543916876573,Sin paredes duraderas,6815,Caquetá
+Mujer,Rural,18,Menor,3125.652,50175.55,53301.2,0.941358731135509,Sin internet,4143,Caquetá
+Mujer,Rural,18,Menor,28523.77,24777.43,53301.2,0.464856888775487,Hacinamiento,971,Caquetá
+Mujer,Rural,18,Menor,50114.6,3186.606,53301.2,0.0597848828919424,Sin pisos duraderos,6279,Caquetá
+Mujer,Rural,18,Menor,50860.41,2440.79,53301.2,0.0457924024224595,Sin electricidad,5745,Caquetá
+Mujer,Rural,18,Menor,53301.2,0,53301.2,0,Sin paredes duraderas,6813,Caquetá
+Mujer,Rural,19,Mayor,16116.27,213704.1,229820.4,0.929874371465719,Sin internet,4150,Cauca
+Mujer,Rural,19,Mayor,150170.8,79649.64,229820.4,0.346573411237645,Sin paredes duraderas,6820,Cauca
+Mujer,Rural,19,Mayor,166746.16,63074.25,229820.4,0.274450179357446,Hacinamiento,978,Cauca
+Mujer,Rural,19,Mayor,181578.18,48242.23,229820.4,0.209912740557409,Sin pisos duraderos,6286,Cauca
+Mujer,Rural,19,Mayor,225661.6,4158.796,229820.4,0.0180958522394009,Sin electricidad,5752,Cauca
+Mujer,Rural,19,Menor,6006.288,104966.2,110972.5,0.945875780035594,Sin internet,4148,Cauca
+Mujer,Rural,19,Menor,58687.8,52284.721,110972.5,0.471150248935547,Hacinamiento,976,Cauca
+Mujer,Rural,19,Menor,73481.49,37491.03,110972.5,0.337840726306067,Sin paredes duraderas,6818,Cauca
+Mujer,Rural,19,Menor,79315.21,31657.32,110972.5,0.285271756516254,Sin pisos duraderos,6284,Cauca
+Mujer,Rural,19,Menor,108638.4,2334.145,110972.5,0.0210335443465723,Sin electricidad,5750,Cauca
+Mujer,Rural,20,Mayor,2114.79,84974.58,87089.37,0.97571701345411,Sin internet,4156,Cesar
+Mujer,Rural,20,Mayor,41329.838,45759.53,87089.37,0.525431863842855,Hacinamiento,984,Cesar
+Mujer,Rural,20,Mayor,69464.87,17624.5,87089.37,0.202372574287769,Sin pisos duraderos,6292,Cesar
+Mujer,Rural,20,Mayor,70682.02,16407.35,87089.37,0.188396700998067,Sin electricidad,5758,Cesar
+Mujer,Rural,20,Mayor,73248.77,13840.6,87089.37,0.158924102907163,Sin paredes duraderas,6826,Cesar
+Mujer,Rural,20,Menor,782.2114,65962.56,66744.77,0.988280579886634,Sin internet,4153,Cesar
+Mujer,Rural,20,Menor,19150.91,47593.86,66744.77,0.713072499912727,Hacinamiento,981,Cesar
+Mujer,Rural,20,Menor,50592.45,16152.32,66744.77,0.242001283396437,Sin pisos duraderos,6289,Cesar
+Mujer,Rural,20,Menor,53006.49,13738.28,66744.77,0.205833056282912,Sin electricidad,5755,Cesar
+Mujer,Rural,20,Menor,55008.3,11736.47,66744.77,0.175841043425575,Sin paredes duraderas,6823,Cesar
+Mujer,Rural,23,Mayor,4491.803,163837.1,168328.9,0.973315336819762,Sin internet,4162,Córdoba
+Mujer,Rural,23,Mayor,85368.9,82960.02,168328.9,0.492844781852671,Sin pisos duraderos,6298,Córdoba
+Mujer,Rural,23,Mayor,100830.31,67498.61,168328.9,0.400992402374162,Hacinamiento,990,Córdoba
+Mujer,Rural,23,Mayor,142068.9,26260.03,168328.9,0.156004286845574,Sin paredes duraderas,6832,Córdoba
+Mujer,Rural,23,Mayor,163858.3,4470.62,168328.9,0.0265588380842505,Sin electricidad,5764,Córdoba
+Mujer,Rural,23,Menor,2347.84,87859.87,90207.71,0.973972956413592,Sin internet,4159,Córdoba
+Mujer,Rural,23,Menor,35203.41,55004.3,90207.71,0.609751649831262,Hacinamiento,987,Córdoba
+Mujer,Rural,23,Menor,36202.46,54005.25,90207.71,0.598676654135217,Sin pisos duraderos,6295,Córdoba
+Mujer,Rural,23,Menor,76191.93,14015.78,90207.71,0.155372306868227,Sin paredes duraderas,6829,Córdoba
+Mujer,Rural,23,Menor,84619.66,5588.041,90207.71,0.0619463790844485,Sin electricidad,5761,Córdoba
+Mujer,Rural,25,Mayor,42388.61,179882.6,222271.2,0.809293331749682,Sin internet,4167,Cundinamarca
+Mujer,Rural,25,Mayor,154239.5,68031.65,222271.2,0.306074966077476,Hacinamiento,995,Cundinamarca
+Mujer,Rural,25,Mayor,202771,19500.15,222271.2,0.0877313390128816,Sin paredes duraderas,6837,Cundinamarca
+Mujer,Rural,25,Mayor,209023.1,13248.08,222271.2,0.0596032234495517,Sin pisos duraderos,6303,Cundinamarca
+Mujer,Rural,25,Mayor,220732.4,1538.7588,222271.2,0.00692288879530951,Sin electricidad,5769,Cundinamarca
+Mujer,Rural,25,Menor,20242.01,100722.7,120964.76,0.832661512328053,Sin internet,4165,Cundinamarca
+Mujer,Rural,25,Menor,60594.03,60370.73,120964.76,0.499077003914198,Hacinamiento,993,Cundinamarca
+Mujer,Rural,25,Menor,111422,9542.735,120964.76,0.0788885539887815,Sin paredes duraderas,6835,Cundinamarca
+Mujer,Rural,25,Menor,112914.3,8050.414,120964.76,0.0665517296111694,Sin pisos duraderos,6301,Cundinamarca
+Mujer,Rural,25,Menor,120397.7,567.04472,120964.76,0.00468768523989962,Sin electricidad,5767,Cundinamarca
+Mujer,Rural,27,Mayor,2906.618,116319.5,119226.1,0.975621109807332,Sin internet,4172,Chocó
+Mujer,Rural,27,Mayor,77698.42,41527.68,119226.1,0.348310311248963,Hacinamiento,1000,Chocó
+Mujer,Rural,27,Mayor,108061.6,11164.522,119226.1,0.0936415935772452,Sin electricidad,5774,Chocó
+Mujer,Rural,27,Mayor,113367.3,5858.7688,119226.1,0.0491399852884561,Sin paredes duraderas,6842,Chocó
+Mujer,Rural,27,Mayor,113411.9,5814.225,119226.1,0.0487663774962026,Sin pisos duraderos,6308,Chocó
+Mujer,Rural,27,Menor,1480.914,104775.4,106256.3,0.986062944032495,Sin internet,4170,Chocó
+Mujer,Rural,27,Menor,45966.84,60289.46,106256.3,0.567396568485822,Hacinamiento,998,Chocó
+Mujer,Rural,27,Menor,93309.46,12946.84,106256.3,0.121845387049991,Sin electricidad,5772,Chocó
+Mujer,Rural,27,Menor,101658.2,4598.092,106256.3,0.0432735941304186,Sin pisos duraderos,6306,Chocó
+Mujer,Rural,27,Menor,102435.3,3820.985,106256.3,0.0359600795435188,Sin paredes duraderas,6840,Chocó
+Mujer,Rural,41,Mayor,9063.069,101518.3,110581.4,0.918041370429385,Sin internet,4177,Huila
+Mujer,Rural,41,Mayor,68699.47,41881.914,110581.4,0.378742844637525,Sin paredes duraderas,6847,Huila
+Mujer,Rural,41,Mayor,82511.52,28069.869,110581.4,0.253838972919496,Hacinamiento,1005,Huila
+Mujer,Rural,41,Mayor,99912.414,10668.97,110581.4,0.0964806920512853,Sin pisos duraderos,6313,Huila
+Mujer,Rural,41,Mayor,108751.5,1829.875,110581.4,0.0165477648139741,Sin electricidad,5779,Huila
+Mujer,Rural,41,Menor,3994.633,59823.69,63818.33,0.937406071265105,Sin internet,4175,Huila
+Mujer,Rural,41,Menor,38841.13,24977.2,63818.33,0.391379718021452,Sin paredes duraderas,6845,Huila
+Mujer,Rural,41,Menor,39308.63,24509.7,63818.33,0.384054236455263,Hacinamiento,1003,Huila
+Mujer,Rural,41,Menor,55324.52,8493.81,63818.33,0.133093579853938,Sin pisos duraderos,6311,Huila
+Mujer,Rural,41,Menor,61729.28,2089.051,63818.33,0.0327343413718284,Sin electricidad,5777,Huila
+Mujer,Rural,44,Mayor,1551.673,86985.54,88537.21,0.982474374333684,Sin internet,4183,La Guajira
+Mujer,Rural,44,Mayor,34227.31,54309.91,88537.21,0.613413388562843,Hacinamiento,1011,La Guajira
+Mujer,Rural,44,Mayor,42273.2,46264.014,88537.21,0.522537518406103,Sin paredes duraderas,6853,La Guajira
+Mujer,Rural,44,Mayor,44181.431,44355.78,88537.21,0.500984614265573,Sin pisos duraderos,6319,La Guajira
+Mujer,Rural,44,Mayor,53601.97,34935.24,88537.21,0.394582571553813,Sin electricidad,5785,La Guajira
+Mujer,Rural,44,Menor,496.99001,79299.22,79796.21,0.993771759335437,Sin internet,4180,La Guajira
+Mujer,Rural,44,Menor,13933.473,65862.73,79796.21,0.825386694430725,Hacinamiento,1008,La Guajira
+Mujer,Rural,44,Menor,32799.4,46996.81,79796.21,0.588960428070456,Sin paredes duraderas,6850,La Guajira
+Mujer,Rural,44,Menor,34111.95,45684.26,79796.21,0.57251165186918,Sin pisos duraderos,6316,La Guajira
+Mujer,Rural,44,Menor,42114.35,37681.85,79796.21,0.472226061864342,Sin electricidad,5782,La Guajira
+Mujer,Rural,47,Mayor,1880.96,91680.28,93561.24,0.979895948364943,Sin internet,4189,Magdalena
+Mujer,Rural,47,Mayor,45855.1,47706.14,93561.24,0.509892130544657,Hacinamiento,1017,Magdalena
+Mujer,Rural,47,Mayor,68107.23,25454.01,93561.24,0.272057210870655,Sin pisos duraderos,6325,Magdalena
+Mujer,Rural,47,Mayor,82150.28,11410.96,93561.24,0.121962470783842,Sin paredes duraderas,6859,Magdalena
+Mujer,Rural,47,Mayor,86660.903,6900.339,93561.24,0.0737521114512805,Sin electricidad,5791,Magdalena
+Mujer,Rural,47,Menor,1401.043,62329.904,63730.95,0.97801623857796,Sin internet,4186,Magdalena
+Mujer,Rural,47,Menor,20961.85,42769.1,63730.95,0.671088380135554,Hacinamiento,1014,Magdalena
+Mujer,Rural,47,Menor,46486,17244.95,63730.95,0.270589878230279,Sin pisos duraderos,6322,Magdalena
+Mujer,Rural,47,Menor,54368.12,9362.827,63730.95,0.146911775204983,Sin paredes duraderas,6856,Magdalena
+Mujer,Rural,47,Menor,57252.247,6478.7,63730.95,0.101657044183399,Sin electricidad,5788,Magdalena
+Mujer,Rural,50,Mayor,11939.27,70779.77,82719.04,0.855664790113618,Sin internet,4195,Meta
+Mujer,Rural,50,Mayor,61773.17,20945.88,82719.04,0.25321715532482,Hacinamiento,1023,Meta
+Mujer,Rural,50,Mayor,77027.54,5691.499,82719.04,0.0688051868106787,Sin pisos duraderos,6331,Meta
+Mujer,Rural,50,Mayor,77169.38,5549.657,82719.04,0.067090442538985,Sin electricidad,5797,Meta
+Mujer,Rural,50,Mayor,80795.32,1923.719,82719.04,0.0232560605152091,Sin paredes duraderas,6865,Meta
+Mujer,Rural,50,Menor,6223.355,43049.75,49273.11,0.873696626821404,Sin internet,4192,Meta
+Mujer,Rural,50,Menor,25837.67,23435.44,49273.11,0.475623316652836,Hacinamiento,1020,Meta
+Mujer,Rural,50,Menor,44391.32,4881.79,49273.11,0.099076149242457,Sin electricidad,5794,Meta
+Mujer,Rural,50,Menor,46377.46,2895.652,49273.11,0.0587673885411333,Sin pisos duraderos,6328,Meta
+Mujer,Rural,50,Menor,47786.39,1486.715,49273.11,0.0301729482876157,Sin paredes duraderas,6862,Meta
+Mujer,Rural,52,Mayor,10498.68,242795,253293.7,0.95855127861451,Sin internet,4200,Nariño
+Mujer,Rural,52,Mayor,185137.3,68156.36,253293.7,0.269080360072122,Hacinamiento,1028,Nariño
+Mujer,Rural,52,Mayor,197478.6,55815.14,253293.7,0.220357395387252,Sin paredes duraderas,6870,Nariño
+Mujer,Rural,52,Mayor,230139.9,23153.8,253293.7,0.0914108799389799,Sin pisos duraderos,6336,Nariño
+Mujer,Rural,52,Mayor,248989.1,4304.633,253293.7,0.0169946311337392,Sin electricidad,5802,Nariño
+Mujer,Rural,52,Menor,5474.754,115283.01,120757.8,0.954663052821433,Sin internet,4198,Nariño
+Mujer,Rural,52,Menor,68552.18,52205.58,120757.8,0.432316421796356,Hacinamiento,1026,Nariño
+Mujer,Rural,52,Menor,101141.1,19616.66,120757.8,0.162446318167439,Sin paredes duraderas,6868,Nariño
+Mujer,Rural,52,Menor,109082.7,11675.05,120757.8,0.0966815394119469,Sin pisos duraderos,6334,Nariño
+Mujer,Rural,52,Menor,118145.5,2612.272,120757.8,0.0216323251996972,Sin electricidad,5800,Nariño
+Mujer,Rural,54,Mayor,2598.672,103840.1,106438.7,0.97558594759237,Sin internet,4205,Norte de Santander
+Mujer,Rural,54,Mayor,60077.82,46360.92,106438.7,0.435564508021988,Hacinamiento,1033,Norte de Santander
+Mujer,Rural,54,Mayor,61631.746,44806.987,106438.7,0.420965184655581,Sin paredes duraderas,6875,Norte de Santander
+Mujer,Rural,54,Mayor,91220.19,15218.55,106438.7,0.142979480207857,Sin pisos duraderos,6341,Norte de Santander
+Mujer,Rural,54,Mayor,103371.7,3067.008,106438.7,0.0288147825931733,Sin electricidad,5807,Norte de Santander
+Mujer,Rural,54,Menor,2670.449,66724.05,69394.5,0.961517843633141,Sin internet,4202,Norte de Santander
+Mujer,Rural,54,Menor,25678.33,43716.18,69394.5,0.629966063592936,Hacinamiento,1030,Norte de Santander
+Mujer,Rural,54,Menor,40929,28465.5,69394.5,0.410198214555909,Sin paredes duraderas,6872,Norte de Santander
+Mujer,Rural,54,Menor,53898.38,15496.12,69394.5,0.223304728760925,Sin pisos duraderos,6338,Norte de Santander
+Mujer,Rural,54,Menor,68245.77,1148.728,69394.5,0.0165535885408786,Sin electricidad,5804,Norte de Santander
+Mujer,Rural,63,Mayor,13318.41,73182.25,86500.66,0.846031116988009,Sin internet,4211,Quindio
+Mujer,Rural,63,Mayor,68270.61,18230.05,86500.66,0.210750415083538,Sin paredes duraderas,6881,Quindio
+Mujer,Rural,63,Mayor,73595.99,12904.66,86500.66,0.149185682513868,Hacinamiento,1039,Quindio
+Mujer,Rural,63,Mayor,85974.21,526.44714,86500.66,0.00608604766715075,Sin pisos duraderos,6347,Quindio
+Mujer,Rural,63,Mayor,86500.66,0,86500.66,0,Sin electricidad,5813,Quindio
+Mujer,Rural,63,Menor,4554.392,30915.63,35470.02,0.871598888300599,Sin internet,4208,Quindio
+Mujer,Rural,63,Menor,24048.17,11421.86,35470.02,0.322014478706243,Hacinamiento,1036,Quindio
+Mujer,Rural,63,Menor,29512.13,5957.8903,35470.02,0.167969747409221,Sin paredes duraderas,6878,Quindio
+Mujer,Rural,63,Menor,35149.79,320.23566,35470.02,0.00902834731979289,Sin pisos duraderos,6344,Quindio
+Mujer,Rural,63,Menor,35470.02,0,35470.02,0,Sin electricidad,5810,Quindio
+Mujer,Rural,66,Mayor,9993.923,95244.22,105238.1,0.905035533708799,Sin internet,4216,Risaralda
+Mujer,Rural,66,Mayor,85001.16,20236.983,105238.1,0.192297114828185,Hacinamiento,1044,Risaralda
+Mujer,Rural,66,Mayor,85416.98,19821.16,105238.1,0.188345855730957,Sin paredes duraderas,6886,Risaralda
+Mujer,Rural,66,Mayor,104396,842.09503,105238.1,0.00800180761530282,Sin pisos duraderos,6352,Risaralda
+Mujer,Rural,66,Mayor,105105.6,132.56033,105238.1,0.00125962298825235,Sin electricidad,5818,Risaralda
+Mujer,Rural,66,Menor,3782.233,46558.46,50340.69,0.924867338926026,Sin internet,4214,Risaralda
+Mujer,Rural,66,Menor,31961.018,18379.67,50340.69,0.365105643168578,Hacinamiento,1042,Risaralda
+Mujer,Rural,66,Menor,39228.64,11112.05,50340.69,0.220736942620373,Sin paredes duraderas,6884,Risaralda
+Mujer,Rural,66,Menor,49899.955,440.73743,50340.69,0.00875509314631961,Sin pisos duraderos,6350,Risaralda
+Mujer,Rural,66,Menor,50267.35,73.339508,50340.69,0.00145686338427225,Sin electricidad,5816,Risaralda
+Mujer,Rural,68,Mayor,8853.456,135182.43,144035.9,0.93853289353557,Sin internet,4222,Santander
+Mujer,Rural,68,Mayor,102694.9,41340.94,144035.9,0.287018305852916,Hacinamiento,1050,Santander
+Mujer,Rural,68,Mayor,109810.2,34225.7,144035.9,0.237619232427471,Sin paredes duraderas,6892,Santander
+Mujer,Rural,68,Mayor,136590.3,7445.568,144035.9,0.0516924461193355,Sin pisos duraderos,6358,Santander
+Mujer,Rural,68,Mayor,142616.1,1419.805,144035.9,0.00985729946492507,Sin electricidad,5824,Santander
+Mujer,Rural,68,Menor,3806.936,77541.28,81348.22,0.953201926237599,Sin internet,4219,Santander
+Mujer,Rural,68,Menor,41648.64,39699.58,81348.22,0.488020266454509,Hacinamiento,1047,Santander
+Mujer,Rural,68,Menor,64446.9,16901.32,81348.22,0.20776508693122,Sin paredes duraderas,6889,Santander
+Mujer,Rural,68,Menor,77474.51,3873.702,81348.22,0.0476187678107769,Sin pisos duraderos,6355,Santander
+Mujer,Rural,68,Menor,80975.66,372.56036,81348.22,0.00457982190636747,Sin electricidad,5821,Santander
+Mujer,Rural,70,Mayor,9918.11,76447.27,86365.38,0.885161044853852,Sin internet,4228,Sucre
+Mujer,Rural,70,Mayor,50851.37,35514.006,86365.38,0.411206504272893,Hacinamiento,1056,Sucre
+Mujer,Rural,70,Mayor,52934.76,33430.617,86365.38,0.387083539723903,Sin pisos duraderos,6364,Sucre
+Mujer,Rural,70,Mayor,68851.97,17513.41,86365.38,0.202782758554412,Sin paredes duraderas,6898,Sucre
+Mujer,Rural,70,Mayor,83703.78,2661.598,86365.38,0.0308178809610981,Sin electricidad,5830,Sucre
+Mujer,Rural,70,Menor,7382.173,47227.23,54609.41,0.86481853585307,Sin internet,4225,Sucre
+Mujer,Rural,70,Menor,20362.71,34246.7,54609.41,0.627120857009808,Hacinamiento,1053,Sucre
+Mujer,Rural,70,Menor,31649.46,22959.947,54609.41,0.420439389475184,Sin pisos duraderos,6361,Sucre
+Mujer,Rural,70,Menor,43280.97,11328.44,54609.41,0.207444834141222,Sin paredes duraderas,6895,Sucre
+Mujer,Rural,70,Menor,52985.98,1623.423,54609.41,0.0297278985434928,Sin electricidad,5827,Sucre
+Mujer,Rural,73,Mayor,8184.537,121652.1,129836.6,0.936963075126736,Sin internet,4233,Tolima
+Mujer,Rural,73,Mayor,94308.53,35528.09,129836.6,0.27363694058532,Hacinamiento,1061,Tolima
+Mujer,Rural,73,Mayor,111795.2,18041.37,129836.6,0.138954424253254,Sin paredes duraderas,6903,Tolima
+Mujer,Rural,73,Mayor,122968.8,6867.813,129836.6,0.0528958167419664,Sin pisos duraderos,6369,Tolima
+Mujer,Rural,73,Mayor,127686.1,2150.513,129836.6,0.0165632263937903,Sin electricidad,5835,Tolima
+Mujer,Rural,73,Menor,4806.99,58023.5,62830.49,0.923492718264652,Sin internet,4231,Tolima
+Mujer,Rural,73,Menor,35749.04,27081.45,62830.49,0.431024013977927,Hacinamiento,1059,Tolima
+Mujer,Rural,73,Menor,52380.87,10449.62,62830.49,0.16631447566301,Sin paredes duraderas,6901,Tolima
+Mujer,Rural,73,Menor,57825.72,5004.769,62830.49,0.0796551005729862,Sin pisos duraderos,6367,Tolima
+Mujer,Rural,73,Menor,61543.2,1287.293,62830.49,0.0204883488892097,Sin electricidad,5833,Tolima
+Mujer,Rural,76,Mayor,64408.95,139031.1,203440,0.683401002752654,Sin internet,4238,Valle del Cauca
+Mujer,Rural,76,Mayor,163152.93,40287.08,203440,0.19802929610696,Hacinamiento,1066,Valle del Cauca
+Mujer,Rural,76,Mayor,169315.2,34124.86,203440,0.167739186000786,Sin paredes duraderas,6908,Valle del Cauca
+Mujer,Rural,76,Mayor,201290.2,2149.822,203440,0.0105673515532835,Sin electricidad,5840,Valle del Cauca
+Mujer,Rural,76,Mayor,202184.7,1255.268,203440,0.00617021234762092,Sin pisos duraderos,6374,Valle del Cauca
+Mujer,Rural,76,Menor,25990.79,66724.5,92715.3,0.719670863385008,Sin internet,4236,Valle del Cauca
+Mujer,Rural,76,Menor,52586.22,40129.08,92715.3,0.432820472996366,Hacinamiento,1064,Valle del Cauca
+Mujer,Rural,76,Menor,73096.28,19619.02,92715.3,0.211604988604901,Sin paredes duraderas,6906,Valle del Cauca
+Mujer,Rural,76,Menor,89673.96,3041.338,92715.3,0.0328029785806658,Sin electricidad,5838,Valle del Cauca
+Mujer,Rural,76,Menor,92087.41,627.88893,92715.3,0.00677222561971972,Sin pisos duraderos,6372,Valle del Cauca
+Mujer,Urbano,5,Mayor,1270920.8,620967.7,1891888.5,0.328226372748711,Sin internet,3977,Antioquia
+Mujer,Urbano,5,Mayor,1673132.5,218756,1891888.5,0.115628378733736,Hacinamiento,805,Antioquia
+Mujer,Urbano,5,Mayor,1881958.2,9930.284,1891888.5,0.0052488738104809,Sin paredes duraderas,6647,Antioquia
+Mujer,Urbano,5,Mayor,1883642.4,8246.097,1891888.5,0.00435865908588165,Sin pisos duraderos,6113,Antioquia
+Mujer,Urbano,5,Mayor,1891487.1,401.40166,1891888.5,0.000212169829247337,Sin electricidad,5579,Antioquia
+Mujer,Urbano,5,Menor,332463.6,244665.7,577129.3,0.423935676112788,Sin internet,3974,Antioquia
+Mujer,Urbano,5,Menor,437963.4,139165.9,577129.3,0.241134698931418,Hacinamiento,802,Antioquia
+Mujer,Urbano,5,Menor,571917.3,5211.963,577129.3,0.00903084109574752,Sin pisos duraderos,6110,Antioquia
+Mujer,Urbano,5,Menor,573380.1,3749.249,577129.3,0.00649637611536964,Sin paredes duraderas,6644,Antioquia
+Mujer,Urbano,5,Menor,576960.8,168.55493,577129.3,0.000292057481746292,Sin electricidad,5576,Antioquia
+Mujer,Urbano,8,Mayor,419093.64,384113.5,803207.2,0.478224672288794,Sin internet,3983,Atlántico
+Mujer,Urbano,8,Mayor,578355.8,224851.3,803207.2,0.279941838170773,Hacinamiento,811,Atlántico
+Mujer,Urbano,8,Mayor,795136.6,8070.57,803207.2,0.0100479303472379,Sin pisos duraderos,6119,Atlántico
+Mujer,Urbano,8,Mayor,801951.9,1255.301,803207.2,0.00156286074128818,Sin paredes duraderas,6653,Atlántico
+Mujer,Urbano,8,Mayor,803207.2,0,803207.2,0,Sin electricidad,5585,Atlántico
+Mujer,Urbano,8,Menor,136118.1,174764.2,310882.31,0.562155498651564,Sin internet,3980,Atlántico
+Mujer,Urbano,8,Menor,171808,139074.3,310882.31,0.447353533882323,Hacinamiento,808,Atlántico
+Mujer,Urbano,8,Menor,305611.2,5271.105,310882.31,0.0169553069777434,Sin pisos duraderos,6116,Atlántico
+Mujer,Urbano,8,Menor,310782,100.30424,310882.31,0.000322643768312195,Sin paredes duraderas,6650,Atlántico
+Mujer,Urbano,8,Menor,310882.31,0,310882.31,0,Sin electricidad,5582,Atlántico
+Mujer,Urbano,11,Mayor,2189561.5,905473.2,3095034.7,0.292556719961815,Sin internet,3989,"Bogotá, D.C."
+Mujer,Urbano,11,Mayor,2726846.9,368187.8,3095034.7,0.118960798727071,Hacinamiento,817,"Bogotá, D.C."
+Mujer,Urbano,11,Mayor,3085738,9296.733,3095034.7,0.00300375727613005,Sin pisos duraderos,6125,"Bogotá, D.C."
+Mujer,Urbano,11,Mayor,3088293.9,6740.832,3095034.7,0.00217795037968395,Sin paredes duraderas,6659,"Bogotá, D.C."
+Mujer,Urbano,11,Mayor,3095034.7,0,3095034.7,0,Sin electricidad,5591,"Bogotá, D.C."
+Mujer,Urbano,11,Menor,609589.82,339640.2,949230,0.357806011188016,Sin internet,3986,"Bogotá, D.C."
+Mujer,Urbano,11,Menor,705364.8,243865.2,949230,0.256908441578964,Hacinamiento,814,"Bogotá, D.C."
+Mujer,Urbano,11,Menor,942127.3,7102.696,949230,0.00748258693888731,Sin pisos duraderos,6122,"Bogotá, D.C."
+Mujer,Urbano,11,Menor,945325.6,3904.4127,949230,0.00411324199614424,Sin paredes duraderas,6656,"Bogotá, D.C."
+Mujer,Urbano,11,Menor,949230,0,949230,0,Sin electricidad,5588,"Bogotá, D.C."
+Mujer,Urbano,13,Mayor,203367.2,362617.39,565984.6,0.640684198828025,Sin internet,3995,Bolívar
+Mujer,Urbano,13,Mayor,389435.3,176549.3,565984.6,0.311933045528094,Hacinamiento,823,Bolívar
+Mujer,Urbano,13,Mayor,535508.1,30476.54,565984.6,0.0538469421252804,Sin pisos duraderos,6131,Bolívar
+Mujer,Urbano,13,Mayor,558959.3,7025.252,565984.6,0.0124124437308012,Sin paredes duraderas,6665,Bolívar
+Mujer,Urbano,13,Mayor,565688.3,296.30122,565984.6,0.00052351463273029,Sin electricidad,5597,Bolívar
+Mujer,Urbano,13,Menor,69511.05,177489.1,247000.1,0.718579061304024,Sin internet,3992,Bolívar
+Mujer,Urbano,13,Menor,122761.55,124238.6,247000.1,0.502990079761101,Hacinamiento,820,Bolívar
+Mujer,Urbano,13,Menor,226747.25,20252.88,247000.1,0.0819954323905132,Sin pisos duraderos,6128,Bolívar
+Mujer,Urbano,13,Menor,241892.68,5107.454,247000.1,0.0206779430453672,Sin paredes duraderas,6662,Bolívar
+Mujer,Urbano,13,Menor,246935.3,64.855415,247000.1,0.000262572424059747,Sin electricidad,5594,Bolívar
+Mujer,Urbano,15,Mayor,156457.2,192893.8,349351,0.552148984831874,Sin internet,4001,Boyacá
+Mujer,Urbano,15,Mayor,315482.7,33868.33,349351,0.0969464235110247,Hacinamiento,829,Boyacá
+Mujer,Urbano,15,Mayor,344820.74,4530.282,349351,0.0129677086941214,Sin paredes duraderas,6671,Boyacá
+Mujer,Urbano,15,Mayor,348719.4,631.57548,349351,0.00180785364862273,Sin pisos duraderos,6137,Boyacá
+Mujer,Urbano,15,Mayor,349332.63,18.392549,349351,5.26477639966681E-05,Sin electricidad,5603,Boyacá
+Mujer,Urbano,15,Menor,48582.01,78045.3,126627.3,0.616338656829925,Sin internet,3998,Boyacá
+Mujer,Urbano,15,Menor,99687.65,26939.66,126627.3,0.212747646044731,Hacinamiento,826,Boyacá
+Mujer,Urbano,15,Menor,124884.7,1742.611,126627.3,0.0137617322646854,Sin paredes duraderas,6668,Boyacá
+Mujer,Urbano,15,Menor,125042,1585.303,126627.3,0.0125194409104514,Sin pisos duraderos,6134,Boyacá
+Mujer,Urbano,15,Menor,126627.3,0,126627.3,0,Sin electricidad,5600,Boyacá
+Mujer,Urbano,17,Mayor,174784.1,132145.2,306929.4,0.430539400917605,Sin internet,4007,Caldas
+Mujer,Urbano,17,Mayor,270023.5,36905.86,306929.4,0.120242179471892,Hacinamiento,835,Caldas
+Mujer,Urbano,17,Mayor,283045,23884.33,306929.4,0.0778170159000734,Sin paredes duraderas,6677,Caldas
+Mujer,Urbano,17,Mayor,306763.7,165.66331,306929.4,0.000539744025824831,Sin pisos duraderos,6143,Caldas
+Mujer,Urbano,17,Mayor,306899.7,29.692852,306929.4,9.67416350470173E-05,Sin electricidad,5609,Caldas
+Mujer,Urbano,17,Menor,45818.05,50372.45,96190.5,0.523673855526273,Sin internet,4004,Caldas
+Mujer,Urbano,17,Menor,73596.02,22594.48,96190.5,0.234893050769047,Hacinamiento,832,Caldas
+Mujer,Urbano,17,Menor,89186.9,7003.601,96190.5,0.0728096953441348,Sin paredes duraderas,6674,Caldas
+Mujer,Urbano,17,Menor,96119.04,71.456987,96190.5,0.000742869482953098,Sin pisos duraderos,6140,Caldas
+Mujer,Urbano,17,Menor,96190.5,0,96190.5,0,Sin electricidad,5606,Caldas
+Mujer,Urbano,18,Mayor,49155.89,80137.68,129293.6,0.619811653477047,Sin internet,4013,Caquetá
+Mujer,Urbano,18,Mayor,100656.3,28637.26,129293.6,0.221490158832301,Hacinamiento,841,Caquetá
+Mujer,Urbano,18,Mayor,126884.2,2409.3901,129293.6,0.01863502988547,Sin pisos duraderos,6149,Caquetá
+Mujer,Urbano,18,Mayor,129153,140.56651,129293.6,0.00108718846099111,Sin electricidad,5615,Caquetá
+Mujer,Urbano,18,Mayor,129159.9,133.64517,129293.6,0.00103365649962566,Sin paredes duraderas,6683,Caquetá
+Mujer,Urbano,18,Menor,25990.6,43527.98,69518.585,0.626134435849061,Sin internet,4010,Caquetá
+Mujer,Urbano,18,Menor,46426.43,23092.15,69518.585,0.33217232485385,Hacinamiento,838,Caquetá
+Mujer,Urbano,18,Menor,68081.34,1437.248,69518.585,0.020674298822394,Sin pisos duraderos,6146,Caquetá
+Mujer,Urbano,18,Menor,69373.93,144.65716,69518.585,0.00208084154762356,Sin electricidad,5612,Caquetá
+Mujer,Urbano,18,Menor,69493.47,25.111754,69518.585,0.000361223606608219,Sin paredes duraderas,6680,Caquetá
+Mujer,Urbano,19,Mayor,112010,162593.1,274603.1,0.592102201322563,Sin internet,4018,Cauca
+Mujer,Urbano,19,Mayor,226875.4,47727.73,274603.1,0.173806231612098,Hacinamiento,846,Cauca
+Mujer,Urbano,19,Mayor,250795.4,23807.73,274603.1,0.0866986934961769,Sin paredes duraderas,6688,Cauca
+Mujer,Urbano,19,Mayor,270964.5,3638.616,274603.1,0.0132504549293143,Sin pisos duraderos,6154,Cauca
+Mujer,Urbano,19,Mayor,274451.3,151.8615,274603.1,0.00055302179764176,Sin electricidad,5620,Cauca
+Mujer,Urbano,19,Menor,35471.41,68332.19,103803.6,0.65828343140315,Sin internet,4016,Cauca
+Mujer,Urbano,19,Menor,73715.9,30087.7,103803.6,0.289852182390591,Hacinamiento,844,Cauca
+Mujer,Urbano,19,Menor,94771.74,9031.854,103803.6,0.087009063269482,Sin paredes duraderas,6686,Cauca
+Mujer,Urbano,19,Menor,102314.3,1489.266,103803.6,0.0143469590650035,Sin pisos duraderos,6152,Cauca
+Mujer,Urbano,19,Menor,103794.3,9.2647953,103803.6,8.92531212790308E-05,Sin electricidad,5618,Cauca
+Mujer,Urbano,20,Mayor,103807.4,166270.4,270077.9,0.61563867313838,Sin internet,4024,Cesar
+Mujer,Urbano,20,Mayor,182372.9,87704.96,270077.9,0.324739491828098,Hacinamiento,852,Cesar
+Mujer,Urbano,20,Mayor,259799.7,10278.19,270077.9,0.0380563903969929,Sin pisos duraderos,6160,Cesar
+Mujer,Urbano,20,Mayor,261574.2,8503.65,270077.9,0.0314859157302393,Sin paredes duraderas,6694,Cesar
+Mujer,Urbano,20,Mayor,269919.9,157.97816,270077.9,0.000584935531563301,Sin electricidad,5626,Cesar
+Mujer,Urbano,20,Menor,43501.02,100634.5,144135.6,0.698193229153658,Sin internet,4021,Cesar
+Mujer,Urbano,20,Menor,71940.1,72195.47,144135.6,0.500885763128609,Hacinamiento,849,Cesar
+Mujer,Urbano,20,Menor,134202.6,9933.018,144135.6,0.0689143972758985,Sin pisos duraderos,6157,Cesar
+Mujer,Urbano,20,Menor,134394.7,9740.881,144135.6,0.0675813678230777,Sin paredes duraderas,6691,Cesar
+Mujer,Urbano,20,Menor,144113.1,22.489922,144135.6,0.000156033082735979,Sin electricidad,5623,Cesar
+Mujer,Urbano,23,Mayor,125963.8,228155,354118.84,0.64428935777605,Sin internet,4030,Córdoba
+Mujer,Urbano,23,Mayor,246663.1,107455.7,354118.84,0.303445306665977,Hacinamiento,858,Córdoba
+Mujer,Urbano,23,Mayor,319936.5,34182.34,354118.84,0.0965278774775157,Sin pisos duraderos,6166,Córdoba
+Mujer,Urbano,23,Mayor,344317.6,9801.284,354118.84,0.0276779512775993,Sin paredes duraderas,6700,Córdoba
+Mujer,Urbano,23,Mayor,353879.6,239.2217,354118.84,0.000675540730902654,Sin electricidad,5632,Córdoba
+Mujer,Urbano,23,Menor,44882.68,100700.8,145583.5,0.691704760498271,Sin internet,4027,Córdoba
+Mujer,Urbano,23,Menor,69721.48,75862.02,145583.5,0.521089409170682,Hacinamiento,855,Córdoba
+Mujer,Urbano,23,Menor,126915.5,18668.05,145583.5,0.128229160584819,Sin pisos duraderos,6163,Córdoba
+Mujer,Urbano,23,Menor,142581.7,3001.844,145583.5,0.0206193971157446,Sin paredes duraderas,6697,Córdoba
+Mujer,Urbano,23,Menor,145542.1,41.377086,145583.5,0.000284215491453358,Sin electricidad,5629,Córdoba
+Mujer,Urbano,25,Mayor,272057.9,258941.2,530999.1,0.48764903744658,Sin internet,4036,Cundinamarca
+Mujer,Urbano,25,Mayor,444511.8,86487.32,530999.1,0.162876584913232,Hacinamiento,864,Cundinamarca
+Mujer,Urbano,25,Mayor,519300.1,11698.97,530999.1,0.0220319959111042,Sin paredes duraderas,6706,Cundinamarca
+Mujer,Urbano,25,Mayor,528272.17,2726.948,530999.1,0.00513550399614613,Sin pisos duraderos,6172,Cundinamarca
+Mujer,Urbano,25,Mayor,530999.1,0,530999.1,0,Sin electricidad,5638,Cundinamarca
+Mujer,Urbano,25,Menor,97605.93,99794.27,197400.2,0.505542902185509,Sin internet,4033,Cundinamarca
+Mujer,Urbano,25,Menor,138201.9,59198.302,197400.2,0.299889777214005,Hacinamiento,861,Cundinamarca
+Mujer,Urbano,25,Menor,194092.4,3307.843,197400.2,0.0167570397598381,Sin paredes duraderas,6703,Cundinamarca
+Mujer,Urbano,25,Menor,196113.5,1286.721,197400.2,0.00651833686085424,Sin pisos duraderos,6169,Cundinamarca
+Mujer,Urbano,25,Menor,197400.2,0,197400.2,0,Sin electricidad,5635,Cundinamarca
+Mujer,Urbano,27,Mayor,26098.848,78464.68,104563.5,0.7504021957949,Sin internet,4041,Chocó
+Mujer,Urbano,27,Mayor,88053.94,16509.58,104563.5,0.157890468471312,Hacinamiento,869,Chocó
+Mujer,Urbano,27,Mayor,94121.29,10442.233,104563.5,0.0998649911297919,Sin paredes duraderas,6711,Chocó
+Mujer,Urbano,27,Mayor,103918.3,645.18198,104563.5,0.00617024085842574,Sin pisos duraderos,6177,Chocó
+Mujer,Urbano,27,Mayor,104084.93,478.59366,104563.5,0.00457706235923625,Sin electricidad,5643,Chocó
+Mujer,Urbano,27,Menor,13349.08,48358.37,61707.45,0.7836715015772,Sin internet,4039,Chocó
+Mujer,Urbano,27,Menor,42233.07,19474.38,61707.45,0.315592039534935,Hacinamiento,867,Chocó
+Mujer,Urbano,27,Menor,57534.4,4173.055,61707.45,0.0676264373264492,Sin paredes duraderas,6709,Chocó
+Mujer,Urbano,27,Menor,61030.025,677.42857,61707.45,0.010978067802186,Sin pisos duraderos,6175,Chocó
+Mujer,Urbano,27,Menor,61673.14,34.3122406,61707.45,0.000556046970017397,Sin electricidad,5641,Chocó
+Mujer,Urbano,41,Mayor,118102.2,149462.87,267565,0.558603965391587,Sin internet,4047,Huila
+Mujer,Urbano,41,Mayor,220364.6,47200.39,267565,0.176407190776073,Hacinamiento,875,Huila
+Mujer,Urbano,41,Mayor,240066.3,27498.78,267565,0.102774204398931,Sin paredes duraderas,6717,Huila
+Mujer,Urbano,41,Mayor,264816.8,2748.206,267565,0.0102711714910396,Sin pisos duraderos,6183,Huila
+Mujer,Urbano,41,Mayor,267361,204.063405,267565,0.000762668529142451,Sin electricidad,5649,Huila
+Mujer,Urbano,41,Menor,47886.98,71687.21,119574.2,0.599520716007299,Sin internet,4044,Huila
+Mujer,Urbano,41,Menor,81839.67,37734.53,119574.2,0.315574179045312,Hacinamiento,872,Huila
+Mujer,Urbano,41,Menor,99968.73,19605.46,119574.2,0.163960620267583,Sin paredes duraderas,6714,Huila
+Mujer,Urbano,41,Menor,118282.4,1291.761,119574.2,0.0108030076722236,Sin pisos duraderos,6180,Huila
+Mujer,Urbano,41,Menor,119574.2,0,119574.2,0,Sin electricidad,5646,Huila
+Mujer,Urbano,44,Mayor,52582.23,120235.3,172817.5,0.695735674917181,Sin internet,4053,La Guajira
+Mujer,Urbano,44,Mayor,106963,65854.5,172817.5,0.381063839020932,Hacinamiento,881,La Guajira
+Mujer,Urbano,44,Mayor,161858.9,10958.56,172817.5,0.0634111707437036,Sin paredes duraderas,6723,La Guajira
+Mujer,Urbano,44,Mayor,164690.6,8126.949,172817.5,0.0470261923705643,Sin pisos duraderos,6189,La Guajira
+Mujer,Urbano,44,Mayor,172335.1,482.3959,172817.5,0.00279136024997468,Sin electricidad,5655,La Guajira
+Mujer,Urbano,44,Menor,24585,72855.3,97440.3,0.747691663510888,Sin internet,4050,La Guajira
+Mujer,Urbano,44,Menor,40110.824,57329.47,97440.3,0.588354818283605,Hacinamiento,878,La Guajira
+Mujer,Urbano,44,Menor,86433.09,11007.21,97440.3,0.112963630038085,Sin paredes duraderas,6720,La Guajira
+Mujer,Urbano,44,Menor,89231.5,8208.798,97440.3,0.084244383484041,Sin pisos duraderos,6186,La Guajira
+Mujer,Urbano,44,Menor,97046.51,393.78319,97440.3,0.00404127645337709,Sin electricidad,5652,La Guajira
+Mujer,Urbano,47,Mayor,102816.9,187988.2,290805.1,0.646440519784557,Sin internet,4059,Magdalena
+Mujer,Urbano,47,Mayor,181946.62,108858.5,290805.1,0.374334906781208,Hacinamiento,887,Magdalena
+Mujer,Urbano,47,Mayor,279912.94,10892.16,290805.1,0.0374551890596142,Sin pisos duraderos,6195,Magdalena
+Mujer,Urbano,47,Mayor,286787.8,4017.2975,290805.1,0.013814398371968,Sin paredes duraderas,6729,Magdalena
+Mujer,Urbano,47,Mayor,290764.3,40.794567,290805.1,0.000140281470304338,Sin electricidad,5661,Magdalena
+Mujer,Urbano,47,Menor,43809.88,107711.3,151521.2,0.710866202221207,Sin internet,4056,Magdalena
+Mujer,Urbano,47,Menor,68453.01,83068.2,151521.2,0.54822823472887,Hacinamiento,884,Magdalena
+Mujer,Urbano,47,Menor,141793.3,9727.914,151521.2,0.0642016694693548,Sin pisos duraderos,6192,Magdalena
+Mujer,Urbano,47,Menor,147315.2,4205.991,151521.2,0.0277584324833753,Sin paredes duraderas,6726,Magdalena
+Mujer,Urbano,47,Menor,151494.2,27.037393,151521.2,0.000178439670488354,Sin electricidad,5658,Magdalena
+Mujer,Urbano,50,Mayor,134692.7,119030.7,253723.4,0.469135680824079,Sin internet,4065,Meta
+Mujer,Urbano,50,Mayor,220790.5,32932.88,253723.4,0.129798355216744,Hacinamiento,893,Meta
+Mujer,Urbano,50,Mayor,251722.5,2000.9,253723.4,0.00788614688278653,Sin pisos duraderos,6201,Meta
+Mujer,Urbano,50,Mayor,252193,1530.383,253723.4,0.00603169829822555,Sin paredes duraderas,6735,Meta
+Mujer,Urbano,50,Mayor,253482.4,240.96745,253723.4,0.000949724976096016,Sin electricidad,5667,Meta
+Mujer,Urbano,50,Menor,54546.53,52199.57,106746.1,0.489006811490068,Sin internet,4062,Meta
+Mujer,Urbano,50,Menor,81020.681,25725.43,106746.1,0.240996439214173,Hacinamiento,890,Meta
+Mujer,Urbano,50,Menor,105266.6,1479.499,106746.1,0.0138599817698258,Sin pisos duraderos,6198,Meta
+Mujer,Urbano,50,Menor,105490.9,1255.175,106746.1,0.0117585092101725,Sin paredes duraderas,6732,Meta
+Mujer,Urbano,50,Menor,106640.3,105.79168,106746.1,0.000991058970772703,Sin electricidad,5664,Meta
+Mujer,Urbano,52,Mayor,146332.8,234040.54,380373.4,0.615291552984515,Sin internet,4070,Nariño
+Mujer,Urbano,52,Mayor,317577.6,62795.78,380373.4,0.165089830151109,Hacinamiento,898,Nariño
+Mujer,Urbano,52,Mayor,353251.1,27122.27,380373.4,0.0713043288515969,Sin paredes duraderas,6740,Nariño
+Mujer,Urbano,52,Mayor,377483.6,2889.778,380373.4,0.00759721368528924,Sin pisos duraderos,6206,Nariño
+Mujer,Urbano,52,Mayor,380373.4,0,380373.4,0,Sin electricidad,5672,Nariño
+Mujer,Urbano,52,Menor,47403.26,95435.34,142838.6,0.668134103806674,Sin internet,4068,Nariño
+Mujer,Urbano,52,Menor,102292.2,40546.44,142838.6,0.283861925277901,Hacinamiento,896,Nariño
+Mujer,Urbano,52,Menor,133603.8,9234.796,142838.6,0.0646519638249045,Sin paredes duraderas,6738,Nariño
+Mujer,Urbano,52,Menor,141986.2,852.3844,142838.6,0.00596746537700594,Sin pisos duraderos,6204,Nariño
+Mujer,Urbano,52,Menor,142838.6,0,142838.6,0,Sin electricidad,5670,Nariño
+Mujer,Urbano,54,Mayor,167844.1,232052.9,399897,0.580281672530677,Sin internet,4076,Norte de Santander
+Mujer,Urbano,54,Mayor,311861.2,88035.82,399897,0.220146237656196,Hacinamiento,904,Norte de Santander
+Mujer,Urbano,54,Mayor,379329.98,20567.01,399897,0.0514307684228689,Sin paredes duraderas,6746,Norte de Santander
+Mujer,Urbano,54,Mayor,394291.4,5605.632,399897,0.0140176895550604,Sin pisos duraderos,6212,Norte de Santander
+Mujer,Urbano,54,Mayor,399463.7,433.26498,399897,0.00108344143616981,Sin electricidad,5678,Norte de Santander
+Mujer,Urbano,54,Menor,57262.85,95443.09,152705.9,0.625012458588699,Sin internet,4073,Norte de Santander
+Mujer,Urbano,54,Menor,95792.86,56913.08,152705.9,0.372697322107397,Hacinamiento,901,Norte de Santander
+Mujer,Urbano,54,Menor,144183.7,8522.198,152705.9,0.0558079157386846,Sin paredes duraderas,6743,Norte de Santander
+Mujer,Urbano,54,Menor,149759.9,2946.009,152705.9,0.0192920443807345,Sin pisos duraderos,6209,Norte de Santander
+Mujer,Urbano,54,Menor,152453.6,252.365757,152705.9,0.00165262610678435,Sin electricidad,5675,Norte de Santander
+Mujer,Urbano,63,Mayor,132348.5,116060.22,248408.7,0.467214795617062,Sin internet,4082,Quindio
+Mujer,Urbano,63,Mayor,213357.2,35051.438,248408.7,0.141103906586203,Hacinamiento,910,Quindio
+Mujer,Urbano,63,Mayor,233276.2,15132.51,248408.7,0.0609177939419996,Sin paredes duraderas,6752,Quindio
+Mujer,Urbano,63,Mayor,247090.7,1317.972,248408.7,0.00530565958438654,Sin pisos duraderos,6218,Quindio
+Mujer,Urbano,63,Mayor,248201.9,206.76672,248408.7,0.000832365050016364,Sin electricidad,5684,Quindio
+Mujer,Urbano,63,Menor,43476.458,50052.982,93529.44,0.535157507625406,Sin internet,4079,Quindio
+Mujer,Urbano,63,Menor,68338.66,25190.78,93529.44,0.269335302339028,Hacinamiento,907,Quindio
+Mujer,Urbano,63,Menor,86190.56,7338.88,93529.44,0.0784659888907707,Sin paredes duraderas,6749,Quindio
+Mujer,Urbano,63,Menor,92939.21,590.23165,93529.44,0.00631065095653304,Sin pisos duraderos,6215,Quindio
+Mujer,Urbano,63,Menor,93354.76,174.68016,93529.44,0.00186764894561541,Sin electricidad,5681,Quindio
+Mujer,Urbano,66,Mayor,189697.88,129895.2,319593.1,0.406439312988923,Sin internet,4087,Risaralda
+Mujer,Urbano,66,Mayor,293729.1,25864,319593.1,0.0809279048890605,Hacinamiento,915,Risaralda
+Mujer,Urbano,66,Mayor,315343.6,4249.521,319593.1,0.0132966606600706,Sin paredes duraderas,6757,Risaralda
+Mujer,Urbano,66,Mayor,319421.1,172.00499,319593.1,0.00053819994862217,Sin pisos duraderos,6223,Risaralda
+Mujer,Urbano,66,Mayor,319562,31.116165,319593.1,9.73618172607606E-05,Sin electricidad,5689,Risaralda
+Mujer,Urbano,66,Menor,55573.36,46687.38,102260.7,0.456552517242694,Sin internet,4085,Risaralda
+Mujer,Urbano,66,Menor,83458.51,18802.24,102260.7,0.183865747056298,Hacinamiento,913,Risaralda
+Mujer,Urbano,66,Menor,100521.4,1739.299,102260.7,0.0170084793082778,Sin paredes duraderas,6755,Risaralda
+Mujer,Urbano,66,Menor,102061.5,199.29075,102260.7,0.00194884985140919,Sin pisos duraderos,6221,Risaralda
+Mujer,Urbano,66,Menor,102229.6,31.116165,102260.7,0.000304282730315752,Sin electricidad,5687,Risaralda
+Mujer,Urbano,68,Mayor,392709.4,262243.6,654953.1,0.40040057830095,Sin internet,4093,Santander
+Mujer,Urbano,68,Mayor,565666.1,89286.95,654953.1,0.136325715535967,Hacinamiento,921,Santander
+Mujer,Urbano,68,Mayor,630236.5,24716.558,654953.1,0.0377379052026779,Sin paredes duraderas,6763,Santander
+Mujer,Urbano,68,Mayor,651923.6,3029.447,654953.1,0.00462544111937175,Sin pisos duraderos,6229,Santander
+Mujer,Urbano,68,Mayor,654718.5,234.639473,654953.1,0.000358253855123367,Sin electricidad,5695,Santander
+Mujer,Urbano,68,Menor,122776.8,98241.17,221018,0.444493977866056,Sin internet,4090,Santander
+Mujer,Urbano,68,Menor,161206.3,59811.72,221018,0.270619225583437,Hacinamiento,918,Santander
+Mujer,Urbano,68,Menor,213991.5,7026.528,221018,0.0317916549783276,Sin paredes duraderas,6760,Santander
+Mujer,Urbano,68,Menor,218081.1,2936.935,221018,0.0132882163443701,Sin pisos duraderos,6226,Santander
+Mujer,Urbano,68,Menor,221018,0,221018,0,Sin electricidad,5692,Santander
+Mujer,Urbano,70,Mayor,73501.28,128246.8,201748.1,0.635677857684905,Sin internet,4099,Sucre
+Mujer,Urbano,70,Mayor,138524.7,63223.42,201748.1,0.313378019421249,Hacinamiento,927,Sucre
+Mujer,Urbano,70,Mayor,180325.4,21422.71,201748.1,0.106185436194938,Sin pisos duraderos,6235,Sucre
+Mujer,Urbano,70,Mayor,189101.5,12646.59,201748.1,0.0626850513090334,Sin paredes duraderas,6769,Sucre
+Mujer,Urbano,70,Mayor,201676.1,72.039799,201748.1,0.000357077955133159,Sin electricidad,5701,Sucre
+Mujer,Urbano,70,Menor,30282.13,63383.24,93665.37,0.676698762840525,Sin internet,4096,Sucre
+Mujer,Urbano,70,Menor,51080.85,42584.52,93665.37,0.454645297402872,Hacinamiento,924,Sucre
+Mujer,Urbano,70,Menor,79270.22,14395.15,93665.37,0.153687002998013,Sin pisos duraderos,6232,Sucre
+Mujer,Urbano,70,Menor,87094.02,6571.351,93665.37,0.0701577434648473,Sin paredes duraderas,6766,Sucre
+Mujer,Urbano,70,Menor,93629.36,36.017779,93665.37,0.000384536771701217,Sin electricidad,5698,Sucre
+Mujer,Urbano,73,Mayor,173268.4,178055.9,351324.3,0.506813505356732,Sin internet,4105,Tolima
+Mujer,Urbano,73,Mayor,287897.6,63426.68,351324.3,0.180535989113193,Hacinamiento,933,Tolima
+Mujer,Urbano,73,Mayor,339680.5,11643.82,351324.3,0.0331426548063997,Sin paredes duraderas,6775,Tolima
+Mujer,Urbano,73,Mayor,347482.8,3841.507,351324.3,0.0109343617848239,Sin pisos duraderos,6241,Tolima
+Mujer,Urbano,73,Mayor,350973.7,350.57963,351324.3,0.000997880391421829,Sin electricidad,5707,Tolima
+Mujer,Urbano,73,Menor,60641.19,87043.65,147684.8,0.589388007432044,Sin internet,4102,Tolima
+Mujer,Urbano,73,Menor,99901.44,47783.39,147684.8,0.323549816907359,Hacinamiento,930,Tolima
+Mujer,Urbano,73,Menor,141587.8,6097.029,147684.8,0.0412840657941779,Sin paredes duraderas,6772,Tolima
+Mujer,Urbano,73,Menor,146191.8,1493.075,147684.8,0.0101098758978581,Sin pisos duraderos,6238,Tolima
+Mujer,Urbano,73,Menor,147426,258.86734,147684.8,0.00175283671711645,Sin electricidad,5704,Tolima
+Mujer,Urbano,76,Mayor,944727.9,522085.7,1466813.5,0.355931889091558,Sin internet,4111,Valle del Cauca
+Mujer,Urbano,76,Mayor,1298302.6,168510.9,1466813.5,0.114882294170322,Hacinamiento,939,Valle del Cauca
+Mujer,Urbano,76,Mayor,1450018.6,16794.95,1466813.5,0.0114499559759983,Sin paredes duraderas,6781,Valle del Cauca
+Mujer,Urbano,76,Mayor,1462499.5,4313.998,1466813.5,0.00294106783173185,Sin pisos duraderos,6247,Valle del Cauca
+Mujer,Urbano,76,Mayor,1465350.7,1462.785,1466813.5,0.000997253570409599,Sin electricidad,5713,Valle del Cauca
+Mujer,Urbano,76,Menor,286214.56,196953.6,483168.1,0.407629559981298,Sin internet,4108,Valle del Cauca
+Mujer,Urbano,76,Menor,369911.8,113256.3,483168.1,0.234403512980265,Hacinamiento,936,Valle del Cauca
+Mujer,Urbano,76,Menor,477795.7,5372.412,483168.1,0.0111191363833829,Sin paredes duraderas,6778,Valle del Cauca
+Mujer,Urbano,76,Menor,480835.4,2332.727,483168.1,0.00482798222813137,Sin pisos duraderos,6244,Valle del Cauca
+Mujer,Urbano,76,Menor,482072.6,1095.549,483168.1,0.00226742825116145,Sin electricidad,5710,Valle del Cauca
+
